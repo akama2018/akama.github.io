@@ -1083,6 +1083,8 @@ section > .container-fluid {
   -webkit-transition: all 0.4s ease-in-out 0s;
   -o-transition: all 0.4s ease-in-out 0s;
   transition: all 0.4s ease-in-out 0s;
+  -webkit-box-shadow: 0px 7px 10px -4px rgba(0, 0, 0, 0.09);
+  box-shadow: 0px 7px 10px -4px rgba(0, 0, 0, 0.09);
 }
 .header-nav.navbar-fixed-top {
   left: 0;
