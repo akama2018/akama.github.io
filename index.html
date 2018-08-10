@@ -1126,7 +1126,7 @@
           <div class="row">
             <div class="col-md-6 wow fadeInLeft mt-10 pr-30" data-wow-duration="1s" data-wow-delay="0.3s">
               <h3 class="bg-theme-colored p-15 pl-30 mb-0 text-white">Запишитесь на бесплатный пробный урок</h3>
-              <form id="volunteer_apply_form" class="bg-light p-30 pb-15" name="job_apply_form" action="includes/reservation.php" method="post" enctype="multipart/form-data">
+              <form id="volunteer_apply_form" class="bg-light p-30 pb-15" name="job_apply_form" action="includes/reservation_main.php" method="post" enctype="multipart/form-data">
                 <div class="row">
                   <div class="col-sm-6">
                     <div class="form-group">
@@ -1137,7 +1137,7 @@
                   <div class="col-sm-6">
                     <div class="form-group">
                       <label for="form_phone">Телефон <small>*</small></label>
-                      <input id="form_phone" name="form_email" class="form-control required phone" type="text" placeholder="Телефон">
+                      <input id="form_phone" name="form_phone" class="form-control required phone" type="text" placeholder="Телефон">
                     </div>
                   </div>
                 </div>
@@ -1160,12 +1160,12 @@
                   </div>
                 </div>
                 <div class="form-group">
-                  <label for="form_message">Сообщение <small>*</small></label>
+                  <label for="form_message">Сообщение <small></small></label>
                   <textarea id="form_message" name="form_message" class="form-control" rows="2" placeholder="Сообщение"></textarea>
                 </div>
                 <div class="form-group">
                   <input id="form_botcheck" name="form_botcheck" class="form-control" type="hidden" value="" />
-                  <button type="submit" class="btn btn-block btn-dark btn-theme-colored btn-sm mt-20 pt-10 pb-10" data-loading-text="Please wait...">Записаться</button>
+                  <button type="submit" class="btn btn-block btn-dark btn-theme-colored btn-sm mt-20 pt-10 pb-10" data-loading-text="Отправка...">Записаться</button>
                 </div>
               </form>
               <!-- Job Form Validation-->

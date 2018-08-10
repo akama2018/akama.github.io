@@ -18,15 +18,15 @@ $mail = new PHPMailer();
 $status = "false";
 
 if( $_SERVER['REQUEST_METHOD'] == 'POST' ) {
-    if( $_POST['reservation_email'] != '' AND $_POST['reservation_phone'] != '' AND $_POST['booking_service'] != '') {
+    if( $_POST['form_phone'] != '' AND $_POST['booking_service'] != '' AND $_POST['form_name'] != '') {
+//    if( $_POST['car_select'] != '') {
 
-        $email = $_POST['reservation_email'];
-        $phone = $_POST['reservation_phone'];
+        $phone = $_POST['form_phone'];
         $car = $_POST['booking_service'];
+        $mes = $_POST['form_message'];
 
         $subject = isset($subject) ? $subject : 'Новое сообщение | Записаться на пробный урок';
-        $name = isset($_POST['reservation_name']) ? $_POST['reservation_name'] : '';
-        $reservation_date = isset($_POST['reservation_date']) ? $_POST['reservation_date'] : '';
+        $name = isset($_POST['form_name']) ? $_POST['form_name'] : '';
 
         $botcheck = $_POST['form_botcheck'];
 
@@ -35,26 +35,24 @@ if( $_SERVER['REQUEST_METHOD'] == 'POST' ) {
 
         if( $botcheck == '' ) {
 
-            $mail->SetFrom( $email , $name );
-            $mail->AddReplyTo( $email , $name );
+            $mail->SetFrom(  $name );
+            $mail->AddReplyTo(  $name );
             $mail->AddAddress( $toemail , $toname );
             $mail->Subject = $subject;
 
             $name = isset($name) ? "Имя: $name<br><br>" : '';
-            $email = isset($email) ? "Email: $email<br><br>" : '';
             $phone = isset($phone) ? "Телефон: $phone<br><br>" : '';
             $car = isset($car) ? "Курс: $car<br><br>" : '';
-            $reservation_date = isset($reservation_date) ? "Дата: $reservation_date<br><br>" : '';
-
+            $mes = isset($mes) ? "Сообщение: $mes<br><br>" : '';
             $referrer = $_SERVER['HTTP_REFERER'] ? '<br><br><br>Форма отправлена со страницы: ' . $_SERVER['HTTP_REFERER'] : '';
 
-            $body = "$name $email $phone $car $reservation_date $referrer";
+            $body = "$name $phone $car $mes $referrer";
 
             $mail->MsgHTML( $body );
             $sendEmail = $mail->Send();
 
             if( $sendEmail == true ):
-                $message = 'Ваше сообщение отправлено, мы скоро свяжемся с Вами.';
+                $message = 'Ваше сообщение отправлено, мы скоро свяжемся с Вами';
                 $status = "true";
             else:
                 $message = 'Сообщение не отпралено, повторите попытку позже<br /><br /><strong>Причина:</strong><br />' . $mail->ErrorInfo . '';
