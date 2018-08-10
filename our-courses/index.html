@@ -266,7 +266,7 @@
                     <div class="row">
                         <div class="footer-box-wrapper equal-height mt-0">
                             <div class="col-sm-4 footer-box-one pr-0 pl-sm-0">
-                                <div class="footer-box icon-box media"> <span href="#" class="media-left pull-left mr-30 mr-sm-15 text-white"><i class="fa fa-comments-o text-white"></i></span>
+                                <div class="footer-box icon-box media"> <span href="#" class="media-left pull-left mr-30 mr-sm-0 mb-sm-10 text-white"><i class="fa fa-comments-o text-white"></i></span>
                                     <div class="media-body">
                                         <h4 class="media-heading heading title">
                                             <a title="Viber" class="text-white" href="viber://add?number=+375293039000">Написать в Viber</a>
@@ -275,17 +275,79 @@
                                 </div>
                             </div>
                             <div class="col-sm-4 footer-box-two pl-0 pr-0">
-                                <div class="footer-box icon-box media"> <span href="#" class="media-left pull-left mr-30 mr-sm-15 "><i class="fa fa-user text-white"></i></span>
+                                <div class="footer-box icon-box media"> <span href="#" class="media-left pull-left mr-30 mr-sm-0 mb-sm-10 "><i class="fa fa-user text-white"></i></span>
                                     <div class="media-body">
-                                        <h4 class="media-heading heading title">Заказать звонок</h4>
+                                        <h4 class="media-heading heading title">
+                                            <a class="popup-with-form text-white" href="#request-call">Заказать звонок</a>
+                                        </h4>
+                                        <div id="request-call" class="modal-promo-box bg-lightest mfp-hide">
+                                            <h3>Оставьте свой номер телефона, и мы перезвоним Вам</h3>
+                                            <!-- Contact Form -->
+                                            <form id="contact_form_1" name="contact_form_1" class="" action="/includes/request-call.php"
+                                                  method="post">
+                                                <div class="row">
+                                                    <div class="col-sm-12">
+                                                        <div class="form-group">
+                                                            <label>Имя
+                                                                <small>*</small>
+                                                            </label>
+                                                            <input name="form_name" class="form-control" type="text" placeholder="Ваше имя"
+                                                                   required="">
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="row">
+                                                    <div class="col-sm-12">
+                                                        <div class="form-group">
+                                                            <label>Телефон
+                                                                <small>*</small>
+                                                            </label>
+                                                            <input name="form_phone" class="form-control required" type="text"
+                                                                   placeholder="Ваш телефон">
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="form-group">
+                                                    <input name="form_botcheck" class="form-control" type="hidden" value=""/>
+                                                    <button type="submit"
+                                                            class="btn btn-flat btn-theme-colored text-uppercase mt-10 mb-sm-30 border-left-theme-color-2-4px"
+                                                            data-loading-text="Отправка...">Отправить
+                                                    </button>
+                                                </div>
+                                            </form>
+                                            <!-- Contact Form Validation-->
+                                            <script type="text/javascript">
+                                                $("#contact_form_1").validate({
+                                                    submitHandler: function(form) {
+                                                        var form_btn = $(form).find('button[type="submit"]');
+                                                        var form_result_div = '#form-result';
+                                                        $(form_result_div).remove();
+                                                        form_btn.before('<div id="form-result" class="alert alert-success" role="alert" style="display: none;"></div>');
+                                                        var form_btn_old_msg = form_btn.html();
+                                                        form_btn.html(form_btn.prop('disabled', true).data("loading-text"));
+                                                        $(form).ajaxSubmit({
+                                                            dataType:  'json',
+                                                            success: function(data) {
+                                                                if( data.status == 'true' ) {
+                                                                    $(form).find('.form-control').val('');
+                                                                }
+                                                                form_btn.prop('disabled', false).html(form_btn_old_msg);
+                                                                $(form_result_div).html(data.message).fadeIn('slow');
+                                                                setTimeout(function(){ $(form_result_div).fadeOut('slow') }, 6000);
+                                                            }
+                                                        });
+                                                    }
+                                                });
+                                            </script>
+                                        </div>
 
                                     </div>
                                 </div>
                             </div>
                             <div class="col-sm-4 footer-box-three pl-0 pr-sm-0">
-                                <div class="footer-box icon-box media"> <span href="#" class="media-left pull-left mr-30 mr-sm-15"><i class=" fa fa-credit-card text-white"></i></span>
+                                <div class="footer-box icon-box media"> <span href="#" class="media-left pull-left mr-30 mr-sm-0 mb-sm-10"><i class=" fa fa-credit-card text-white"></i></span>
                                     <div class="media-body">
-                                        <h4 class="media-heading heading title">Реквизиты для оплаты</h4>
+                                        <h4 class="media-heading heading title"><a href="/about/requisites.html" class="text-white">Реквизиты для оплаты</a></h4>
                                     </div>
                                 </div>
                             </div>
@@ -293,6 +355,7 @@
                     </div>
                 </div>
             </div>
+
         </section>
 
     </div>
