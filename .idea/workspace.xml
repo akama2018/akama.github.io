@@ -3,51 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="778ed120-ae10-4b53-8802-af4a8eb1a977" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/about/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about/requisites.html" beforeDir="false" afterPath="$PROJECT_DIR$/about/requisites.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contacts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/contacts/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/newsdetail/abiturient.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/newsdetail/abiturient.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/newsdetail/biznes_lager.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/newsdetail/biznes_lager.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/newsdetail/books.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/newsdetail/books.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/newsdetail/db68d2cf588525d5441ce2a126569aa4_(1).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/newsdetail/db68d2cf588525d5441ce2a126569aa4_(1).jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/newsdetail/lori_0004548431_bigwww800.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/newsdetail/lori_0004548431_bigwww800.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/newsdetail/malprinc.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/newsdetail/malprinc.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/newsdetail/malprinc2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/newsdetail/malprinc2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/newsdetail/malprinc3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/newsdetail/malprinc3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/newsdetail/malprinc4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/newsdetail/malprinc4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/newsdetail/mama1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/newsdetail/mama1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/newsdetail/mif-ct.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/newsdetail/mif-ct.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/newsdetail/rod_kids.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/newsdetail/rod_kids.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/newsdetail/studentg1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/newsdetail/studentg1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/newsdetail/students.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/newsdetail/students.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/newsdetail/udivi_uchitelya.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/newsdetail/udivi_uchitelya.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/newsdetail/uspeshnaja_ucheba.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/newsdetail/uspeshnaja_ucheba.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/newsdetail/vfvf2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/newsdetail/vfvf2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/newsdetail/vfvf3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/newsdetail/vfvf3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/newsdetail/vfvf4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/newsdetail/vfvf4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/newsdetail/vfvf5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/newsdetail/vfvf5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/newsdetail/vfvf6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/newsdetail/vfvf6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/newsdetail/vfvf7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/newsdetail/vfvf7.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/newsdetail/vfvf8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/newsdetail/vfvf8.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/newsdetail/vfvf9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/newsdetail/vfvf9.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interesting/10_zapovedey_roditeley_ili_kak_pomoch_rebenku_v_uchebe.html" beforeDir="false" afterPath="$PROJECT_DIR$/interesting/10_zapovedey_roditeley_ili_kak_pomoch_rebenku_v_uchebe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interesting/abiturientu_na_zametku_taktika_uspeshnoy_sdachi_tst.html" beforeDir="false" afterPath="$PROJECT_DIR$/interesting/abiturientu_na_zametku_taktika_uspeshnoy_sdachi_tst.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interesting/index-data-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/interesting/index-data-2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interesting/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/interesting/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interesting/kak_reshit_problemyi_s_matematikoy.html" beforeDir="false" afterPath="$PROJECT_DIR$/interesting/kak_reshit_problemyi_s_matematikoy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interesting/mama_i_papa_glazami_rebenka.html" beforeDir="false" afterPath="$PROJECT_DIR$/interesting/mama_i_papa_glazami_rebenka.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interesting/mifyi_o_tst.html" beforeDir="false" afterPath="$PROJECT_DIR$/interesting/mifyi_o_tst.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interesting/pravila_jizni_malenkogo_printsa.html" beforeDir="false" afterPath="$PROJECT_DIR$/interesting/pravila_jizni_malenkogo_printsa.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/our-courses/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/our-courses/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/our-courses/intensiv_na_kanikulah.html" beforeDir="false" afterPath="$PROJECT_DIR$/our-courses/intensiv_na_kanikulah.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/our-courses/matematika_dlia_vzroslyh.html" beforeDir="false" afterPath="$PROJECT_DIR$/our-courses/matematika_dlia_vzroslyh.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/our-courses/podgotovka_k_tst.html" beforeDir="false" afterPath="$PROJECT_DIR$/our-courses/podgotovka_k_tst.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/our-courses/podgotovka_k_tst_phisika.html" beforeDir="false" afterPath="$PROJECT_DIR$/our-courses/podgotovka_k_tst_phisika.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/our-courses/s_geometriey_na_tyi.html" beforeDir="false" afterPath="$PROJECT_DIR$/our-courses/s_geometriey_na_tyi.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/our-courses/secrety_ustnoho_scheta.html" beforeDir="false" afterPath="$PROJECT_DIR$/our-courses/secrety_ustnoho_scheta.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/our-courses/shkola_na_otlichno.html" beforeDir="false" afterPath="$PROJECT_DIR$/our-courses/shkola_na_otlichno.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/our-courses/vyisshaya_matematika_studentam_vuzov.html" beforeDir="false" afterPath="$PROJECT_DIR$/our-courses/vyisshaya_matematika_studentam_vuzov.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prices/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/prices/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/animate.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/animate.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/colors/theme-skin-color-set-1.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/colors/theme-skin-color-set-1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/css-plugin-collections.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/css-plugin-collections.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/custom-bootstrap-margin-padding.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/custom-bootstrap-margin-padding.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/menuzord-skins/menuzord-rounded-boxed.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/menuzord-skins/menuzord-rounded-boxed.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/preloader.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/preloader.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/responsive.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/15.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/15.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/20.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/20.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/23.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/23.jpg" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -58,10 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="reservation.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="reservation.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/includes/reservation.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1292">
+            <state relative-caret-position="561">
               <caret line="76" selection-start-line="74" selection-start-column="1" selection-end-line="76" />
             </state>
           </provider>
@@ -70,12 +35,17 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contacts/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-364">
+            <state relative-caret-position="3825">
               <caret line="225" column="33" selection-start-line="225" selection-start-column="33" selection-end-line="225" selection-end-column="33" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style-main.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/style-main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="179">
+              <caret line="7112" selection-start-line="7110" selection-start-column="1" selection-end-line="7112" />
             </state>
           </provider>
         </entry>
@@ -100,7 +70,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>479</find>
       <find>media-left pull-left mr-30 mr-sm-15</find>
       <find>placehold.it/1920x1280</find>
       <find>.footer-box .title</find>
@@ -130,6 +99,7 @@
       <find>header</find>
       <find>Подготовка к ЦТ по математике</find>
       <find>на заме</find>
+      <find>\n\s*(\n)</find>
     </findStrings>
     <replaceStrings>
       <replace>/img/</replace>
@@ -154,7 +124,15 @@
       <replace />
       <replace>&lt;span href=&quot;#&quot; class=&quot;lineheight-20&quot;&gt;Минск, Красная улица, 17&lt;/span&gt;</replace>
       <replace>/our-courses/</replace>
+      <replace>$1</replace>
     </replaceStrings>
+    <dirStrings>
+      <dir>F:\OpenServer\domains\math\about</dir>
+      <dir>F:\OpenServer\domains\math\contacts</dir>
+      <dir>F:\OpenServer\domains\math\interesting</dir>
+      <dir>F:\OpenServer\domains\math\our-courses</dir>
+      <dir>F:\OpenServer\domains\math\prices</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -208,7 +186,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="330" />
     <option name="width" value="2230" />
-    <option name="height" value="1394" />
+    <option name="height" value="1395" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -216,7 +194,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -232,12 +209,18 @@
             <path>
               <item name="math" type="b2602c69:ProjectViewProjectNode" />
               <item name="math" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="math" type="b2602c69:ProjectViewProjectNode" />
+              <item name="math" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -249,16 +232,16 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\OpenServer\domains\math\includes" />
-      <recent name="F:\OpenServer\domains\math\interesting" />
-      <recent name="F:\OpenServer\domains\math\doc" />
-      <recent name="F:\OpenServer\domains\math\about" />
-      <recent name="F:\OpenServer\domains\math" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\OpenServer\domains\math\img\newsdetail" />
       <recent name="F:\OpenServer\domains\math\img" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\OpenServer\domains\math\css" />
+      <recent name="F:\OpenServer\domains\math\css\menuzord-skins" />
+      <recent name="F:\OpenServer\domains\math\css\colors" />
+      <recent name="F:\OpenServer\domains\math\includes" />
+      <recent name="F:\OpenServer\domains\math\interesting" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -296,7 +279,8 @@
       <workItem from="1533898222387" duration="1112000" />
       <workItem from="1533908173853" duration="5127000" />
       <workItem from="1534148310653" duration="1647000" />
-      <workItem from="1534151068432" duration="782000" />
+      <workItem from="1534151068432" duration="837000" />
+      <workItem from="1534152156545" duration="245000" />
     </task>
     <task id="LOCAL-00001" summary="оптимизация изображений">
       <created>1533840249616</created>
@@ -361,11 +345,18 @@
       <option name="project" value="LOCAL" />
       <updated>1534151262325</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="оптимизация">
+      <created>1534151885882</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1534151885882</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58590000" />
+    <option name="totallyTimeSpent" value="58890000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -377,29 +368,29 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="264" y="0" width="1784" height="1115" extended-state="0" />
+    <frame x="264" y="0" width="1784" height="1116" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3291536" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="GitLabIntegration" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32845187" />
       <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32810867" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3329843" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20127611" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2035963" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -414,30 +405,10 @@
     <MESSAGE value="правки на главной" />
     <MESSAGE value="правки форм" />
     <MESSAGE value="оптимизация изображений" />
-    <option name="LAST_COMMIT_MESSAGE" value="оптимизация изображений" />
+    <MESSAGE value="оптимизация" />
+    <option name="LAST_COMMIT_MESSAGE" value="оптимизация" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/classycountdown/css/documentation.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="884">
-          <caret column="52274" selection-start-column="52262" selection-end-column="52274" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6341">
-          <caret line="373" column="177" selection-start-line="373" selection-start-column="177" selection-end-line="373" selection-end-column="177" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8891">
-          <caret line="1228" column="107" selection-start-line="1228" selection-start-column="70" selection-end-line="1228" selection-end-column="107" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/classycountdown/css/documentation.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="884">
@@ -649,13 +620,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style-main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18445">
-          <caret line="1085" selection-start-line="1085" selection-end-line="1087" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/our-courses/intensiv_na_kanikulah.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
@@ -699,28 +663,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/contacts/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-364">
+        <state relative-caret-position="3825">
           <caret line="225" column="33" selection-start-line="225" selection-start-column="33" selection-end-line="225" selection-end-column="33" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/custom.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1479">
-          <folding>
-            <element signature="e#1#9#0" expanded="true" />
-          </folding>
-        </state>
+        <state relative-caret-position="-1479" />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/animate.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/colors/theme-skin-color-set-1.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/menuzord-skins/menuzord-rounded-boxed.css">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/includes/reservation.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1292">
+        <state relative-caret-position="561">
           <caret line="76" selection-start-line="74" selection-start-column="1" selection-end-line="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style-main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="7112" selection-start-line="7110" selection-start-column="1" selection-end-line="7112" />
         </state>
       </provider>
     </entry>
