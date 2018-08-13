@@ -7143,7 +7143,7 @@ blockquote p {
 .teach_title{
   height: 62px;
 }
-.post .entry-title{
+#blog-posts-wrapper .entry-title{
   height: 60px;
   overflow: hidden;
 }

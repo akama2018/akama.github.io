@@ -3,7 +3,6 @@
   <h4 class="modal-title text-white" id="myModalLabel">Donation Form</h4>
 </div>
 <div class="p-40">
-
   <!-- ===== START: Paypal Both Onetime/Recurring Form ===== -->
   <form id="popup_paypal_donate_form_onetime_recurring">
     <div class="row">
@@ -20,7 +19,6 @@
           </label>
         </div>
       </div>
-
       <div class="col-sm-12" id="popup_donation_type_choice">
         <div class="form-group mb-20">
           <label><strong>Donation Type</strong></label>
@@ -40,7 +38,6 @@
           </div>
         </div>
       </div>
-
       <div class="col-sm-6">
         <div class="form-group mb-20">
           <label><strong>I Want to Donate for</strong></label>
@@ -52,7 +49,6 @@
           </select>
         </div>
       </div>
-
       <div class="col-sm-6">
         <div class="form-group mb-20">
           <label><strong>Currency</strong></label>
@@ -83,7 +79,6 @@
           </select>
         </div>
       </div>
-
       <div class="col-sm-12">
         <div class="form-group mb-20">
           <label><strong>How much do you want to donate?</strong></label>
@@ -100,7 +95,6 @@
           </div>
         </div>
       </div>
-
       <div class="col-sm-12">
         <div class="form-group">
           <button type="submit" class="btn btn-dark btn-theme-colored mt-10 pl-30 pr-30" data-loading-text="Please wait...">Book Now</button>
@@ -108,7 +102,6 @@
       </div>
     </div>
   </form>
-  
   <!-- Script for Donation Form Custom Amount -->
   <script type="text/javascript">
     $(document).ready(function(e) {
@@ -126,7 +119,6 @@
             $custom_other_amount.hide();
           }
       });
-
       //toggle donation_type_choice
       var $donation_type_choice = $donation_form.find("#popup_donation_type_choice");
       $donation_type_choice.hide();
@@ -138,8 +130,6 @@
               $donation_type_choice.hide();
           }
       });
-
-
       // submit form on click
       $donation_form.on('submit', function(e){
           $( "#popup_paypal_donate_form-onetime" ).submit();
@@ -147,46 +137,35 @@
           var currency_code = $donation_form.find("select[name='currency_code'] option:selected").val();
           var amount = $donation_form.find("select[name='amount'] option:selected").val();
           var t3 = $donation_form.find("input[name='t3']:checked").val();
-
           if ( amount == 'other') {
             amount = $donation_form.find("#popup_input_other_amount").val();
           }
-
           // submit proper form now
           if ( $("input[name='payment_type']:checked", $donation_form).val() == 'recurring' ) {
               var recurring_form = $('#popup_paypal_donate_form-recurring');
-
               recurring_form.find("input[name='item_name']").val(item_name);
               recurring_form.find("input[name='currency_code']").val(currency_code);
               recurring_form.find("input[name='a3']").val(amount);
               recurring_form.find("input[name='t3']").val(t3);
-
               recurring_form.find("input[type='submit']").trigger('click');
-
           } else if ( $("input[name='payment_type']:checked", $donation_form).val() == 'one_time' ) {
               var onetime_form = $('#popup_paypal_donate_form-onetime');
-
               onetime_form.find("input[name='item_name']").val(item_name);
               onetime_form.find("input[name='currency_code']").val(currency_code);
               onetime_form.find("input[name='amount']").val(amount);
-
               onetime_form.find("input[type='submit']").trigger('click');
           }
           return false;
       });
-
     });
   </script>
-
   <!-- Paypal Onetime Form -->
   <form id="popup_paypal_donate_form-onetime" class="hidden" action="https://www.paypal.com/cgi-bin/webscr" method="post">
     <input type="hidden" name="cmd" value="_donations">
     <input type="hidden" name="business" value="accounts@thememascot.com">
-
     <input type="hidden" name="item_name" value="Educate Children"> <!-- updated dynamically -->
     <input type="hidden" name="currency_code" value="USD"> <!-- updated dynamically -->
     <input type="hidden" name="amount" value="20"> <!-- updated dynamically -->
-
     <input type="hidden" name="no_shipping" value="1">
     <input type="hidden" name="cn" value="Comments...">
     <input type="hidden" name="tax" value="0">
@@ -197,18 +176,14 @@
     <input type="hidden" name="notify_url" value="http://www.yoursite.com/notifypayment.php">
     <input type="submit" name="submit">
   </form>
-  
   <!-- Paypal Recurring Form -->
   <form id="popup_paypal_donate_form-recurring" class="hidden" action="https://www.paypal.com/cgi-bin/webscr" method="post">
     <input type="hidden" name="cmd" value="_xclick-subscriptions">
     <input type="hidden" name="business" value="accounts@thememascot.com">
-
     <input type="hidden" name="item_name" value="Educate Children"> <!-- updated dynamically -->
     <input type="hidden" name="currency_code" value="USD"> <!-- updated dynamically -->
     <input type="hidden" name="a3" value="20"> <!-- updated dynamically -->
     <input type="hidden" name="t3" value="D"> <!-- updated dynamically -->
-
-
     <input type="hidden" name="p3" value="1">
     <input type="hidden" name="rm" value="2">
     <input type="hidden" name="src" value="1">
@@ -223,7 +198,6 @@
     <input type="submit" name="submit">
   </form>
   <!-- ===== END: Paypal Both Onetime/Recurring Form ===== -->
-  
 </div>
 <div class="modal-footer hidden">
 </div>

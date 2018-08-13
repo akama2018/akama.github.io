@@ -3,16 +3,38 @@
   <component name="ChangeListManager">
     <list default="true" id="778ed120-ae10-4b53-8802-af4a8eb1a977" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/animate.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/animate.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/colors/theme-skin-color-set-1.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/colors/theme-skin-color-set-1.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/css-plugin-collections.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/css-plugin-collections.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/custom-bootstrap-margin-padding.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/custom-bootstrap-margin-padding.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/menuzord-skins/menuzord-rounded-boxed.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/menuzord-skins/menuzord-rounded-boxed.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/preloader.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/preloader.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/responsive.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/15.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/15.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/20.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/20.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/23.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/23.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about/requisites.html" beforeDir="false" afterPath="$PROJECT_DIR$/about/requisites.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ajax-load/member-booking-form.html" beforeDir="false" afterPath="$PROJECT_DIR$/ajax-load/member-booking-form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ajax-load/reservation-form.html" beforeDir="false" afterPath="$PROJECT_DIR$/ajax-load/reservation-form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contacts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/contacts/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style-main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style-main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/icomoon/demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/icomoon/demo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/page-404-style2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/apple-touch-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/apple-touch-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/newsdetail/platezhka_akademia_matematiki.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interesting/10_zapovedey_roditeley_ili_kak_pomoch_rebenku_v_uchebe.html" beforeDir="false" afterPath="$PROJECT_DIR$/interesting/10_zapovedey_roditeley_ili_kak_pomoch_rebenku_v_uchebe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interesting/abiturientu_na_zametku_taktika_uspeshnoy_sdachi_tst.html" beforeDir="false" afterPath="$PROJECT_DIR$/interesting/abiturientu_na_zametku_taktika_uspeshnoy_sdachi_tst.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interesting/index-data-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/interesting/index-data-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interesting/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/interesting/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interesting/kak_reshit_problemyi_s_matematikoy.html" beforeDir="false" afterPath="$PROJECT_DIR$/interesting/kak_reshit_problemyi_s_matematikoy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interesting/mama_i_papa_glazami_rebenka.html" beforeDir="false" afterPath="$PROJECT_DIR$/interesting/mama_i_papa_glazami_rebenka.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interesting/mifyi_o_tst.html" beforeDir="false" afterPath="$PROJECT_DIR$/interesting/mifyi_o_tst.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interesting/pravila_jizni_malenkogo_printsa.html" beforeDir="false" afterPath="$PROJECT_DIR$/interesting/pravila_jizni_malenkogo_printsa.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/classycountdown/doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/js/classycountdown/doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/classycountdown/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/js/classycountdown/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/our-courses/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/our-courses/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/our-courses/intensiv_na_kanikulah.html" beforeDir="false" afterPath="$PROJECT_DIR$/our-courses/intensiv_na_kanikulah.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/our-courses/matematika_dlia_vzroslyh.html" beforeDir="false" afterPath="$PROJECT_DIR$/our-courses/matematika_dlia_vzroslyh.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/our-courses/podgotovka_k_tst.html" beforeDir="false" afterPath="$PROJECT_DIR$/our-courses/podgotovka_k_tst.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/our-courses/podgotovka_k_tst_phisika.html" beforeDir="false" afterPath="$PROJECT_DIR$/our-courses/podgotovka_k_tst_phisika.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/our-courses/s_geometriey_na_tyi.html" beforeDir="false" afterPath="$PROJECT_DIR$/our-courses/s_geometriey_na_tyi.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/our-courses/secrety_ustnoho_scheta.html" beforeDir="false" afterPath="$PROJECT_DIR$/our-courses/secrety_ustnoho_scheta.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/our-courses/shkola_na_otlichno.html" beforeDir="false" afterPath="$PROJECT_DIR$/our-courses/shkola_na_otlichno.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/our-courses/vyisshaya_matematika_studentam_vuzov.html" beforeDir="false" afterPath="$PROJECT_DIR$/our-courses/vyisshaya_matematika_studentam_vuzov.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prices/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/prices/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,38 +45,59 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="reservation.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/includes/reservation.php">
+      <file leaf-file-name="style-main.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style-main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="76" selection-start-line="74" selection-start-column="1" selection-end-line="76" />
+            <state relative-caret-position="348">
+              <caret line="7147" column="19" selection-start-line="7147" selection-start-column="19" selection-end-line="7147" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="secrety_ustnoho_scheta.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/our-courses/secrety_ustnoho_scheta.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="56" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="matematika_dlia_vzroslyh.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/our-courses/matematika_dlia_vzroslyh.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="podgotovka_k_tst.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/our-courses/podgotovka_k_tst.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="7" column="223" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="223" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contacts/index.html">
+        <entry file="file://$PROJECT_DIR$/interesting/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3825">
-              <caret line="225" column="33" selection-start-line="225" selection-start-column="33" selection-end-line="225" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style-main.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/style-main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="7112" selection-start-line="7110" selection-start-column="1" selection-end-line="7112" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sendmail.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/includes/sendmail.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" selection-start-line="9" selection-start-column="2" selection-end-line="15" selection-end-column="21" />
+            <state relative-caret-position="175">
+              <caret line="130" column="47" selection-start-line="130" selection-start-column="29" selection-end-line="130" selection-end-column="47" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -70,17 +113,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>media-left pull-left mr-30 mr-sm-15</find>
-      <find>placehold.it/1920x1280</find>
-      <find>.footer-box .title</find>
-      <find>рек</find>
-      <find>Please enter a value</find>
-      <find>action=&quot;includes</find>
-      <find>запишите</find>
-      <find>contact_form</find>
-      <find>наши</find>
-      <find>modal-promo-box mfp-hide bg-lightest</find>
-      <find>главная</find>
       <find>&lt;ul class=&quot;dropdown&quot;&gt;</find>
       <find>Главная&lt;/a&gt;</find>
       <find>запишит</find>
@@ -99,6 +131,17 @@
       <find>header</find>
       <find>Подготовка к ЦТ по математике</find>
       <find>на заме</find>
+      <find>utility-classes</find>
+      <find>&lt;meta name=&quot;keywords&quot; content=&quot;academy, course, education, education html theme, elearning, learning,&quot;/&gt;</find>
+      <find>=&quot;&quot;</find>
+      <find>lang=&quot;en&quot;</find>
+      <find>class=&quot;post</find>
+      <find>entry-title</find>
+      <find>LearnPress | Education &amp; Courses HTML Template</find>
+      <find>Disable Preloader</find>
+      <find>&lt;link href=&quot;/images/apple-touch-icon-72x72.png&quot; rel=&quot;apple-touch-icon&quot; sizes=&quot;72x72&quot;&gt;</find>
+      <find>&lt;link href=&quot;/images/apple-touch-icon-114x114.png&quot; rel=&quot;apple-touch-icon&quot; sizes=&quot;114x114&quot;&gt;</find>
+      <find>&lt;link href=&quot;/images/apple-touch-icon-144x144.png&quot; rel=&quot;apple-touch-icon&quot; sizes=&quot;144x144&quot;&gt;</find>
       <find>\n\s*(\n)</find>
     </findStrings>
     <replaceStrings>
@@ -121,9 +164,12 @@
       <replace>modal-promo-box mfp-hide bg-lightest modal-teacher</replace>
       <replace>col-md-12</replace>
       <replace>&lt;div class=&quot;container pt-0 pb-0&quot;&gt;         &lt;div class=&quot;section-content&quot;&gt;           &lt;div class=&quot;row&quot;&gt;           &lt;div class=&quot;footer-box-wrapper equal-height mt-0&quot;&gt;               &lt;div class=&quot;col-sm-4 footer-box-one pr-0 pl-sm-0&quot;&gt;                 &lt;div class=&quot;footer-box icon-box media&quot;&gt; &lt;span href=&quot;#&quot; class=&quot;media-left pull-left mr-30 mr-sm-0 mb-sm-10 text-white&quot;&gt;&lt;i class=&quot;fa fa-comments-o text-white&quot;&gt;&lt;/i&gt;&lt;/span&gt;                   &lt;div class=&quot;media-body&quot;&gt;                     &lt;h4 class=&quot;media-heading heading title&quot;&gt;                       &lt;a title=&quot;Viber&quot; class=&quot;text-white&quot; href=&quot;viber://add?number=+375293039000&quot;&gt;Написать в Viber&lt;/a&gt;                       &lt;/h4&gt;                   &lt;/div&gt;                 &lt;/div&gt;               &lt;/div&gt;               &lt;div class=&quot;col-sm-4 footer-box-two pl-0 pr-0&quot;&gt;                 &lt;div class=&quot;footer-box icon-box media&quot;&gt; &lt;span href=&quot;#&quot; class=&quot;media-left pull-left mr-30 mr-sm-0 mb-sm-10 &quot;&gt;&lt;i class=&quot;fa fa-user text-white&quot;&gt;&lt;/i&gt;&lt;/span&gt;                   &lt;div class=&quot;media-body&quot;&gt;                     &lt;h4 class=&quot;media-heading heading title&quot;&gt;                       &lt;a class=&quot;popup-with-form text-white&quot; href=&quot;#request-call&quot;&gt;Заказать звонок&lt;/a&gt;                       &lt;/h4&gt;                     &lt;div id=&quot;request-call&quot; class=&quot;modal-promo-box bg-lightest mfp-hide&quot;&gt;                       &lt;h3&gt;Оставьте свой номер телефона, и мы перезвоним Вам&lt;/h3&gt;                       &lt;!-- Contact Form --&gt;                       &lt;form id=&quot;contact_form_1&quot; name=&quot;contact_form_1&quot; class=&quot;&quot; action=&quot;/includes/request-call.php&quot;                             method=&quot;post&quot;&gt;                         &lt;div class=&quot;row&quot;&gt;                           &lt;div class=&quot;col-sm-12&quot;&gt;                             &lt;div class=&quot;form-group&quot;&gt;                               &lt;label&gt;Имя                                 &lt;small&gt;*&lt;/small&gt;                               &lt;/label&gt;                               &lt;input name=&quot;form_name&quot; class=&quot;form-control&quot; type=&quot;text&quot; placeholder=&quot;Ваше имя&quot;                                      required=&quot;&quot;&gt;                             &lt;/div&gt;                           &lt;/div&gt;                         &lt;/div&gt;                         &lt;div class=&quot;row&quot;&gt;                           &lt;div class=&quot;col-sm-12&quot;&gt;                             &lt;div class=&quot;form-group&quot;&gt;                               &lt;label&gt;Телефон                                 &lt;small&gt;*&lt;/small&gt;                               &lt;/label&gt;                               &lt;input name=&quot;form_phone&quot; class=&quot;form-control required&quot; type=&quot;text&quot;                                      placeholder=&quot;Ваш телефон&quot;&gt;                             &lt;/div&gt;                           &lt;/div&gt;                         &lt;/div&gt;                         &lt;div class=&quot;form-group&quot;&gt;                           &lt;input name=&quot;form_botcheck&quot; class=&quot;form-control&quot; type=&quot;hidden&quot; value=&quot;&quot;/&gt;                           &lt;button type=&quot;submit&quot;                                   class=&quot;btn btn-flat btn-theme-colored text-uppercase mt-10 mb-sm-30 border-left-theme-color-2-4px&quot;                                   data-loading-text=&quot;Отправка...&quot;&gt;Отправить                           &lt;/button&gt;                         &lt;/div&gt;                       &lt;/form&gt;                       &lt;!-- Contact Form Validation--&gt;                       &lt;script type=&quot;text/javascript&quot;&gt;                           $(&quot;#contact_form_1&quot;).validate({                               submitHandler: function(form) {                                   var form_btn = $(form).find('button[type=&quot;submit&quot;]');                                   var form_result_div = '#form-result';                                   $(form_result_div).remove();                                   form_btn.before('&lt;div id=&quot;form-result&quot; class=&quot;alert alert-success&quot; role=&quot;alert&quot; style=&quot;display: none;&quot;&gt;&lt;/div&gt;');                                   var form_btn_old_msg = form_btn.html();                                   form_btn.html(form_btn.prop('disabled', true).data(&quot;loading-text&quot;));                                   $(form).ajaxSubmit({                                       dataType:  'json',                                       success: function(data) {                                           if( data.status == 'true' ) {                                               $(form).find('.form-control').val('');                                           }                                           form_btn.prop('disabled', false).html(form_btn_old_msg);                                           $(form_result_div).html(data.message).fadeIn('slow');                                           setTimeout(function(){ $(form_result_div).fadeOut('slow') }, 6000);                                       }                                   });                               }                           });                       &lt;/script&gt;                     &lt;/div&gt;                    &lt;/div&gt;                 &lt;/div&gt;               &lt;/div&gt;               &lt;div class=&quot;col-sm-4 footer-box-three pl-0 pr-sm-0&quot;&gt;                 &lt;div class=&quot;footer-box icon-box media&quot;&gt; &lt;span href=&quot;#&quot; class=&quot;media-left pull-left mr-30 mr-sm-0 mb-sm-10&quot;&gt;&lt;i class=&quot; fa fa-credit-card text-white&quot;&gt;&lt;/i&gt;&lt;/span&gt;                   &lt;div class=&quot;media-body&quot;&gt;                     &lt;h4 class=&quot;media-heading heading title&quot;&gt;&lt;a href=&quot;/about/requisites.html&quot; class=&quot;text-white&quot;&gt;Реквизиты для оплаты&lt;/a&gt;&lt;/h4&gt;                   &lt;/div&gt;                 &lt;/div&gt;               &lt;/div&gt;             &lt;/div&gt;           &lt;/div&gt;         &lt;/div&gt;       &lt;/div&gt;</replace>
-      <replace />
       <replace>&lt;span href=&quot;#&quot; class=&quot;lineheight-20&quot;&gt;Минск, Красная улица, 17&lt;/span&gt;</replace>
       <replace>/our-courses/</replace>
+      <replace>&lt;meta name=&quot;keywords&quot; content=&quot;Учебный центр, в Минске, Академия математики, репетитор по математике, подготовка к ЦТ&quot;&gt;</replace>
+      <replace>lang=&quot;ru&quot;</replace>
+      <replace>Скрыть прелоадер</replace>
+      <replace />
       <replace>$1</replace>
     </replaceStrings>
     <dirStrings>
@@ -140,37 +186,37 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/our-courses/matematika_dlia_vzroslyh.html" />
-        <option value="$PROJECT_DIR$/our-courses/podgotovka_k_tst.html" />
-        <option value="$PROJECT_DIR$/our-courses/podgotovka_k_tst_phisika.html" />
-        <option value="$PROJECT_DIR$/our-courses/s_geometriey_na_tyi.html" />
-        <option value="$PROJECT_DIR$/our-courses/secrety_ustnoho_scheta.html" />
-        <option value="$PROJECT_DIR$/our-courses/shkola_na_otlichno.html" />
-        <option value="$PROJECT_DIR$/our-courses/vyisshaya_matematika_studentam_vuzov.html" />
         <option value="$PROJECT_DIR$/footer.html" />
-        <option value="$PROJECT_DIR$/interesting/10_zapovedey_roditeley_ili_kak_pomoch_rebenku_v_uchebe.html" />
         <option value="$PROJECT_DIR$/css/responsive.css" />
-        <option value="$PROJECT_DIR$/contacts/index.html" />
-        <option value="$PROJECT_DIR$/interesting/index.html" />
         <option value="$PROJECT_DIR$/interesting/index-data-2.html" />
-        <option value="$PROJECT_DIR$/about/requisites.html" />
         <option value="$PROJECT_DIR$/interesting/mama_i_papa_glazami_rebenka_.html" />
-        <option value="$PROJECT_DIR$/interesting/mama_i_papa_glazami_rebenka.html" />
-        <option value="$PROJECT_DIR$/interesting/kak_reshit_problemyi_s_matematikoy.html" />
         <option value="$PROJECT_DIR$/interesting/mifyi_o_tst_.html" />
-        <option value="$PROJECT_DIR$/interesting/mifyi_o_tst.html" />
-        <option value="$PROJECT_DIR$/interesting/pravila_jizni_malenkogo_printsa.html" />
         <option value="$PROJECT_DIR$/includes/reservation_main.php" />
         <option value="$PROJECT_DIR$/includes/reservation.php" />
-        <option value="$PROJECT_DIR$/about/index.html" />
         <option value="$PROJECT_DIR$/includes/request-call.php" />
+        <option value="$PROJECT_DIR$/includes/sendmail.php" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/prices/index.html" />
         <option value="$PROJECT_DIR$/our-courses/index.html" />
-        <option value="$PROJECT_DIR$/css/style-main.css" />
         <option value="$PROJECT_DIR$/our-courses/intensiv_na_kanikulah.html" />
+        <option value="$PROJECT_DIR$/our-courses/s_geometriey_na_tyi.html" />
+        <option value="$PROJECT_DIR$/our-courses/shkola_na_otlichno.html" />
+        <option value="$PROJECT_DIR$/our-courses/vyisshaya_matematika_studentam_vuzov.html" />
+        <option value="$PROJECT_DIR$/about/index.html" />
+        <option value="$PROJECT_DIR$/about/requisites.html" />
+        <option value="$PROJECT_DIR$/contacts/index.html" />
+        <option value="$PROJECT_DIR$/interesting/index.html" />
+        <option value="$PROJECT_DIR$/interesting/10_zapovedey_roditeley_ili_kak_pomoch_rebenku_v_uchebe.html" />
         <option value="$PROJECT_DIR$/interesting/abiturientu_na_zametku_taktika_uspeshnoy_sdachi_tst.html" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/includes/sendmail.php" />
+        <option value="$PROJECT_DIR$/interesting/kak_reshit_problemyi_s_matematikoy.html" />
+        <option value="$PROJECT_DIR$/interesting/mama_i_papa_glazami_rebenka.html" />
+        <option value="$PROJECT_DIR$/interesting/mifyi_o_tst.html" />
+        <option value="$PROJECT_DIR$/interesting/pravila_jizni_malenkogo_printsa.html" />
+        <option value="$PROJECT_DIR$/css/style-main.css" />
+        <option value="$PROJECT_DIR$/our-courses/podgotovka_k_tst.html" />
+        <option value="$PROJECT_DIR$/our-courses/podgotovka_k_tst_phisika.html" />
+        <option value="$PROJECT_DIR$/our-courses/secrety_ustnoho_scheta.html" />
+        <option value="$PROJECT_DIR$/our-courses/matematika_dlia_vzroslyh.html" />
       </list>
     </option>
   </component>
@@ -184,8 +230,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="330" />
-    <option name="width" value="2230" />
+    <option name="x" value="652" />
+    <option name="y" value="11" />
+    <option name="width" value="2848" />
     <option name="height" value="1395" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -204,17 +251,7 @@
             <path>
               <item name="math" type="b2602c69:ProjectViewProjectNode" />
               <item name="math" type="462c0819:PsiDirectoryNode" />
-              <item name="about" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="math" type="b2602c69:ProjectViewProjectNode" />
-              <item name="math" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="math" type="b2602c69:ProjectViewProjectNode" />
-              <item name="math" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -232,16 +269,17 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\OpenServer\domains\math\img\newsdetail" />
-      <recent name="F:\OpenServer\domains\math\img" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\OpenServer\domains\math\images" />
       <recent name="F:\OpenServer\domains\math\css" />
       <recent name="F:\OpenServer\domains\math\css\menuzord-skins" />
       <recent name="F:\OpenServer\domains\math\css\colors" />
       <recent name="F:\OpenServer\domains\math\includes" />
-      <recent name="F:\OpenServer\domains\math\interesting" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\OpenServer\domains\math\images" />
+      <recent name="F:\OpenServer\domains\math\img\newsdetail" />
+      <recent name="F:\OpenServer\domains\math\img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -280,7 +318,8 @@
       <workItem from="1533908173853" duration="5127000" />
       <workItem from="1534148310653" duration="1647000" />
       <workItem from="1534151068432" duration="837000" />
-      <workItem from="1534152156545" duration="245000" />
+      <workItem from="1534152156545" duration="844000" />
+      <workItem from="1534162518917" duration="3384000" />
     </task>
     <task id="LOCAL-00001" summary="оптимизация изображений">
       <created>1533840249616</created>
@@ -352,11 +391,18 @@
       <option name="project" value="LOCAL" />
       <updated>1534151885882</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="оптимизация">
+      <created>1534152580470</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1534152580470</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58890000" />
+    <option name="totallyTimeSpent" value="62873000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -368,29 +414,29 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="264" y="0" width="1784" height="1116" extended-state="0" />
+    <frame x="860" y="9" width="1939" height="1116" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3291536" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="GitLabIntegration" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32810867" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32810867" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3329843" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2035963" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18893029" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -409,13 +455,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="оптимизация" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/classycountdown/css/documentation.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="884">
-          <caret column="52274" lean-forward="true" selection-start-column="52262" selection-end-column="52274" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="11985">
@@ -447,74 +486,11 @@
         <state relative-caret-position="-19137" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/our-courses/matematika_dlia_vzroslyh.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="875">
-          <caret line="290" selection-start-line="290" selection-end-line="290" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/our-courses/podgotovka_k_tst.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="875">
-          <caret line="303" selection-start-line="303" selection-end-line="303" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/our-courses/podgotovka_k_tst_phisika.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="875">
-          <caret line="291" selection-start-line="291" selection-end-line="291" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/our-courses/s_geometriey_na_tyi.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="875">
-          <caret line="313" selection-start-line="313" selection-end-line="313" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/our-courses/secrety_ustnoho_scheta.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="875">
-          <caret line="291" selection-start-line="291" selection-end-line="291" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/our-courses/shkola_na_otlichno.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="875">
-          <caret line="435" selection-start-line="435" selection-end-line="435" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/our-courses/vyisshaya_matematika_studentam_vuzov.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="875">
-          <caret line="317" selection-start-line="317" selection-end-line="317" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/footer.html" />
-    <entry file="file://$PROJECT_DIR$/interesting/10_zapovedey_roditeley_ili_kak_pomoch_rebenku_v_uchebe.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="875">
-          <caret line="324" selection-start-line="324" selection-end-line="324" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/css-plugin-collections.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="303">
           <caret line="130" selection-start-line="130" selection-end-line="130" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/responsive.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2380">
-          <caret line="140" selection-start-line="140" selection-end-line="140" />
         </state>
       </provider>
     </entry>
@@ -525,13 +501,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/interesting/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="538">
-          <caret line="101" selection-start-line="101" selection-end-line="101" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/interesting/index-data-2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="505">
@@ -539,55 +508,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about/requisites.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="140" column="36" selection-start-line="140" selection-start-column="36" selection-end-line="140" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/interesting/mama_i_papa_glazami_rebenka_.html" />
-    <entry file="file://$PROJECT_DIR$/interesting/mama_i_papa_glazami_rebenka.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="777">
-          <caret line="186" column="61" selection-start-line="166" selection-end-line="190" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/interesting/kak_reshit_problemyi_s_matematikoy_.html" />
-    <entry file="file://$PROJECT_DIR$/interesting/kak_reshit_problemyi_s_matematikoy.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="678">
-          <caret line="173" column="48" selection-start-line="173" selection-start-column="48" selection-end-line="173" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/interesting/mifyi_o_tst_.html" />
-    <entry file="file://$PROJECT_DIR$/interesting/mifyi_o_tst.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="150" column="42" lean-forward="true" selection-start-line="150" selection-start-column="42" selection-end-line="150" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/interesting/pravila_jizni_malenkogo_printsa.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="272" column="29" lean-forward="true" selection-start-line="272" selection-start-column="29" selection-end-line="272" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/includes/reservation_main.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="756">
           <caret line="70" column="85" lean-forward="true" selection-start-line="70" selection-start-column="16" selection-end-line="70" selection-end-column="85" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6239">
-          <caret line="367" column="159" selection-start-line="367" selection-start-column="159" selection-end-line="367" selection-end-column="159" />
         </state>
       </provider>
     </entry>
@@ -606,65 +533,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/our-courses/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2133">
-          <caret line="357" lean-forward="true" selection-start-line="263" selection-start-column="12" selection-end-line="357" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prices/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="289" selection-start-line="289" selection-end-line="289" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/our-courses/intensiv_na_kanikulah.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="210" column="49" selection-start-line="210" selection-start-column="49" selection-end-line="210" selection-end-column="49" />
-          <folding>
-            <element signature="n#head#0;n#html#0;n#!!top" />
-            <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/interesting/abiturientu_na_zametku_taktika_uspeshnoy_sdachi_tst.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="149" column="87" selection-start-line="149" selection-start-column="87" selection-end-line="149" selection-end-column="87" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="531">
-          <caret line="1338" column="56" selection-start-line="1338" selection-start-column="56" selection-end-line="1338" selection-end-column="56" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#div#0;n#section#10;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/includes/sendmail.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" selection-start-line="9" selection-start-column="2" selection-end-line="15" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contacts/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3825">
-          <caret line="225" column="33" selection-start-line="225" selection-start-column="33" selection-end-line="225" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -684,15 +556,240 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/includes/reservation.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
+        <state relative-caret-position="1292">
           <caret line="76" selection-start-line="74" selection-start-column="1" selection-end-line="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/utility-classes.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1241">
+          <caret line="72" selection-start-line="72" selection-end-line="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#section#10;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prices/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/our-courses/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/our-courses/intensiv_na_kanikulah.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/our-courses/s_geometriey_na_tyi.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="8" column="192" selection-start-line="8" selection-start-column="192" selection-end-line="8" selection-end-column="192" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/our-courses/shkola_na_otlichno.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="7" column="169" selection-start-line="7" selection-start-column="169" selection-end-line="7" selection-end-column="169" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/our-courses/vyisshaya_matematika_studentam_vuzov.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="8" column="178" selection-start-line="8" selection-start-column="178" selection-end-line="8" selection-end-column="178" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="12" selection-end-column="116" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about/requisites.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contacts/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interesting/10_zapovedey_roditeley_ili_kak_pomoch_rebenku_v_uchebe.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="140" selection-start-line="8" selection-start-column="140" selection-end-line="8" selection-end-column="140" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interesting/abiturientu_na_zametku_taktika_uspeshnoy_sdachi_tst.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="84" selection-start-line="8" selection-start-column="84" selection-end-line="8" selection-end-column="84" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interesting/kak_reshit_problemyi_s_matematikoy.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interesting/mama_i_papa_glazami_rebenka.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interesting/pravila_jizni_malenkogo_printsa.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="25" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interesting/mifyi_o_tst.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="34" lean-forward="true" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interesting/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="130" column="47" selection-start-line="130" selection-start-column="29" selection-end-line="130" selection-end-column="47" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/our-courses/podgotovka_k_tst_phisika.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="6" column="210" selection-start-line="6" selection-start-column="210" selection-end-line="6" selection-end-column="210" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style-main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="7112" selection-start-line="7110" selection-start-column="1" selection-end-line="7112" />
+        <state relative-caret-position="348">
+          <caret line="7147" column="19" selection-start-line="7147" selection-start-column="19" selection-end-line="7147" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/our-courses/podgotovka_k_tst.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="7" column="223" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="223" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/our-courses/secrety_ustnoho_scheta.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="56" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/our-courses/matematika_dlia_vzroslyh.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
