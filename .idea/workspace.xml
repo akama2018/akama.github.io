@@ -2,27 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="778ed120-ae10-4b53-8802-af4a8eb1a977" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/includes/request-call.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contacts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/contacts/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interesting/10_zapovedey_roditeley_ili_kak_pomoch_rebenku_v_uchebe.html" beforeDir="false" afterPath="$PROJECT_DIR$/interesting/10_zapovedey_roditeley_ili_kak_pomoch_rebenku_v_uchebe.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/interesting/abiturientu_na_zametku_taktika_uspeshnoy_sdachi_tst.html" beforeDir="false" afterPath="$PROJECT_DIR$/interesting/abiturientu_na_zametku_taktika_uspeshnoy_sdachi_tst.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interesting/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/interesting/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interesting/kak_reshit_problemyi_s_matematikoy.html" beforeDir="false" afterPath="$PROJECT_DIR$/interesting/kak_reshit_problemyi_s_matematikoy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interesting/mama_i_papa_glazami_rebenka.html" beforeDir="false" afterPath="$PROJECT_DIR$/interesting/mama_i_papa_glazami_rebenka.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interesting/mifyi_o_tst.html" beforeDir="false" afterPath="$PROJECT_DIR$/interesting/mifyi_o_tst.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interesting/pravila_jizni_malenkogo_printsa.html" beforeDir="false" afterPath="$PROJECT_DIR$/interesting/pravila_jizni_malenkogo_printsa.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/our-courses/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/our-courses/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/our-courses/intensiv_na_kanikulah.html" beforeDir="false" afterPath="$PROJECT_DIR$/our-courses/intensiv_na_kanikulah.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/our-courses/matematika_dlia_vzroslyh.html" beforeDir="false" afterPath="$PROJECT_DIR$/our-courses/matematika_dlia_vzroslyh.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/our-courses/podgotovka_k_tst.html" beforeDir="false" afterPath="$PROJECT_DIR$/our-courses/podgotovka_k_tst.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/our-courses/podgotovka_k_tst_phisika.html" beforeDir="false" afterPath="$PROJECT_DIR$/our-courses/podgotovka_k_tst_phisika.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/our-courses/s_geometriey_na_tyi.html" beforeDir="false" afterPath="$PROJECT_DIR$/our-courses/s_geometriey_na_tyi.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/our-courses/secrety_ustnoho_scheta.html" beforeDir="false" afterPath="$PROJECT_DIR$/our-courses/secrety_ustnoho_scheta.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/our-courses/shkola_na_otlichno.html" beforeDir="false" afterPath="$PROJECT_DIR$/our-courses/shkola_na_otlichno.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/our-courses/vyisshaya_matematika_studentam_vuzov.html" beforeDir="false" afterPath="$PROJECT_DIR$/our-courses/vyisshaya_matematika_studentam_vuzov.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prices/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/prices/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -33,36 +15,51 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="reservation.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/includes/reservation.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="799">
-              <caret line="72" selection-start-line="72" selection-end-line="73" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="1465" column="12" lean-forward="true" selection-start-line="1465" selection-start-column="12" selection-end-line="1465" selection-end-column="12" />
+            <state relative-caret-position="531">
+              <caret line="1338" column="56" selection-start-line="1338" selection-start-column="56" selection-end-line="1338" selection-end-column="56" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#div#0;n#section#10;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="intensiv_na_kanikulah.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/our-courses/intensiv_na_kanikulah.html">
+      <file leaf-file-name="abiturientu_na_zametku_taktika_uspeshnoy_sdachi_tst.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/interesting/abiturientu_na_zametku_taktika_uspeshnoy_sdachi_tst.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="501">
-              <caret line="155" column="49" selection-start-line="155" selection-start-column="49" selection-end-line="155" selection-end-column="49" />
+            <state relative-caret-position="467">
+              <caret line="149" column="87" selection-start-line="149" selection-start-column="87" selection-end-line="149" selection-end-column="87" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="intensiv_na_kanikulah.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/our-courses/intensiv_na_kanikulah.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="210" column="49" selection-start-line="210" selection-start-column="49" selection-end-line="210" selection-end-column="49" />
+              <folding>
+                <element signature="n#head#0;n#html#0;n#!!top" />
+                <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style-main.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style-main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18445">
+              <caret line="1085" selection-start-line="1085" selection-end-line="1087" />
             </state>
           </provider>
         </entry>
@@ -78,11 +75,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>&lt;h4 class=&quot;font-weight-700 text-uppercase mt-0&quot;&gt;</find>
-      <find>col-xs-4 col-sm-4 col-md-4</find>
-      <find>768</find>
-      <find>Школа на отлично (5-10 класс)</find>
-      <find>font-weight-700 text-uppercase mt-0</find>
       <find>479</find>
       <find>media-left pull-left mr-30 mr-sm-15</find>
       <find>placehold.it/1920x1280</find>
@@ -108,6 +100,11 @@
       <find>\&lt;div class\=\&quot;container pt\-0 pb\-0\&quot;\&gt;\n                \&lt;div class\=\&quot;section\-content\&quot;\&gt;\n                    \&lt;div class\=\&quot;row\&quot;\&gt;\n                        \&lt;div class\=\&quot;footer\-box\-wrapper equal\-height mt\-0\&quot;\&gt;\n                            \&lt;div class\=\&quot;col\-sm\-4 footer\-box\-one pr\-0 pl\-sm\-0\&quot;\&gt;\n                                \&lt;div class\=\&quot;footer\-box icon\-box media\&quot;\&gt; \&lt;span href\=\&quot;\#\&quot; class\=\&quot;media\-left pull\-left mr\-30 mr\-sm\-15 text\-white\&quot;\&gt;\&lt;i class\=\&quot;fa fa\-comments\-o text\-white\&quot;\&gt;\&lt;\/i\&gt;\&lt;\/span\&gt;\n                                    \&lt;div class\=\&quot;media\-body\&quot;\&gt;\n                                        \&lt;h4 class\=\&quot;media\-heading heading title\&quot;\&gt;\n                                            \&lt;a title\=\&quot;Viber\&quot; class\=\&quot;text\-white\&quot; href\=\&quot;viber\:\/\/add\?number\=\+375293039000\&quot;\&gt;Написать в Viber\&lt;\/a\&gt;\n                                        \&lt;\/h4\&gt;\n                                    \&lt;\/div\&gt;\n                                \&lt;\/div\&gt;\n                            \&lt;\/div\&gt;\n                            \&lt;div class\=\&quot;col\-sm\-4 footer\-box\-two pl\-0 pr\-0\&quot;\&gt;\n                                \&lt;div class\=\&quot;footer\-box icon\-box media\&quot;\&gt; \&lt;span href\=\&quot;\#\&quot; class\=\&quot;media\-left pull\-left mr\-30 mr\-sm\-15 \&quot;\&gt;\&lt;i class\=\&quot;fa fa\-user text\-white\&quot;\&gt;\&lt;\/i\&gt;\&lt;\/span\&gt;\n                                    \&lt;div class\=\&quot;media\-body\&quot;\&gt;\n                                        \&lt;h4 class\=\&quot;media\-heading heading title\&quot;\&gt;Заказать звонок\&lt;\/h4\&gt;\n\n                                    \&lt;\/div\&gt;\n                                \&lt;\/div\&gt;\n                            \&lt;\/div\&gt;\n                            \&lt;div class\=\&quot;col\-sm\-4 footer\-box\-three pl\-0 pr\-sm\-0\&quot;\&gt;\n                                \&lt;div class\=\&quot;footer\-box icon\-box media\&quot;\&gt; \&lt;span href\=\&quot;\#\&quot; class\=\&quot;media\-left pull\-left mr\-30 mr\-sm\-15\&quot;\&gt;\&lt;i class\=\&quot; fa fa\-credit\-card text\-white\&quot;\&gt;\&lt;\/i\&gt;\&lt;\/span\&gt;\n                                    \&lt;div class\=\&quot;media\-body\&quot;\&gt;\n                                        \&lt;h4 class\=\&quot;media\-heading heading title\&quot;\&gt;Реквизиты для оплаты\&lt;\/h4\&gt;\n                                    \&lt;\/div\&gt;\n                                \&lt;\/div\&gt;\n                            \&lt;\/div\&gt;\n                        \&lt;\/div\&gt;\n                    \&lt;\/div\&gt;\n                \&lt;\/div\&gt;\n            \&lt;\/div\&gt;\n</find>
       <find>\&lt;div class\=\&quot;container pt\-0 pb\-0\&quot;\&gt;\n                \&lt;div class\=\&quot;section\-content\&quot;\&gt;\n                    \&lt;div class\=\&quot;row\&quot;\&gt;\n                        \&lt;div class\=\&quot;footer\-box\-wrapper equal\-height mt\-0\&quot;\&gt;\n                            \&lt;div class\=\&quot;col\-sm\-4 footer\-box\-one pr\-0 pl\-sm\-0\&quot;\&gt;\n                                \&lt;div class\=\&quot;footer\-box icon\-box media\&quot;\&gt; \&lt;span href\=\&quot;\#\&quot; class\=\&quot;media\-left pull\-left mr\-30 mr\-sm\-15 text\-white\&quot;\&gt;\&lt;i class\=\&quot;fa fa\-comments\-o text\-white\&quot;\&gt;\&lt;\/i\&gt;\&lt;\/span\&gt;\n                                    \&lt;div class\=\&quot;media\-body\&quot;\&gt;\n                                        \&lt;h4 class\=\&quot;media\-heading heading title\&quot;\&gt;\n                                            \&lt;a title\=\&quot;Viber\&quot; class\=\&quot;text\-white\&quot; href\=\&quot;viber\:\/\/add\?number\=\+375293039000\&quot;\&gt;Написать в Viber\&lt;\/a\&gt;\n                                        \&lt;\/h4\&gt;\n                                    \&lt;\/div\&gt;\n                                \&lt;\/div\&gt;\n                            \&lt;\/div\&gt;\n                            \&lt;div class\=\&quot;col\-sm\-4 footer\-box\-two pl\-0 pr\-0\&quot;\&gt;\n                                \&lt;div class\=\&quot;footer\-box icon\-box media\&quot;\&gt; \&lt;span href\=\&quot;\#\&quot; class\=\&quot;media\-left pull\-left mr\-30 mr\-sm\-15 \&quot;\&gt;\&lt;i class\=\&quot;fa fa\-user text\-white\&quot;\&gt;\&lt;\/i\&gt;\&lt;\/span\&gt;\n                                    \&lt;div class\=\&quot;media\-body\&quot;\&gt;\n                                        \&lt;h4 class\=\&quot;media\-heading heading title\&quot;\&gt;Заказать звонок\&lt;\/h4\&gt;\n\n                                    \&lt;\/div\&gt;\n                                \&lt;\/div\&gt;\n                            \&lt;\/div\&gt;\n                            \&lt;div class\=\&quot;col\-sm\-4 footer\-box\-three pl\-0 pr\-sm\-0\&quot;\&gt;\n                                \&lt;div class\=\&quot;footer\-box icon\-box media\&quot;\&gt; \&lt;span href\=\&quot;\#\&quot; class\=\&quot;media\-left pull\-left mr\-30 mr\-sm\-15\&quot;\&gt;\&lt;i class\=\&quot; fa fa\-credit\-card text\-white\&quot;\&gt;\&lt;\/i\&gt;\&lt;\/span\&gt;\n                                    \&lt;div class\=\&quot;media\-body\&quot;\&gt;\n                                        \&lt;h4 class\=\&quot;media\-heading heading title\&quot;\&gt;Реквизиты для оплаты\&lt;\/h4\&gt;\n                                    \&lt;\/div\&gt;\n                                \&lt;\/div\&gt;\n                            \&lt;\/div\&gt;\n                        \&lt;\/div\&gt;\n                    \&lt;\/div\&gt;\n                \&lt;\/div\&gt;\n            \&lt;\/div\&gt;</find>
       <find>заказ</find>
+      <find>&lt;a href=&quot;#&quot; class=&quot;lineheight-20&quot;&gt;Минск, Красная улица, 17&lt;/a&gt;</find>
+      <find>Минск, Красная улица, 17</find>
+      <find>header</find>
+      <find>Подготовка к ЦТ по математике</find>
+      <find>на заме</find>
     </findStrings>
     <replaceStrings>
       <replace>/img/</replace>
@@ -130,6 +127,8 @@
       <replace>col-md-12</replace>
       <replace>&lt;div class=&quot;container pt-0 pb-0&quot;&gt;         &lt;div class=&quot;section-content&quot;&gt;           &lt;div class=&quot;row&quot;&gt;           &lt;div class=&quot;footer-box-wrapper equal-height mt-0&quot;&gt;               &lt;div class=&quot;col-sm-4 footer-box-one pr-0 pl-sm-0&quot;&gt;                 &lt;div class=&quot;footer-box icon-box media&quot;&gt; &lt;span href=&quot;#&quot; class=&quot;media-left pull-left mr-30 mr-sm-0 mb-sm-10 text-white&quot;&gt;&lt;i class=&quot;fa fa-comments-o text-white&quot;&gt;&lt;/i&gt;&lt;/span&gt;                   &lt;div class=&quot;media-body&quot;&gt;                     &lt;h4 class=&quot;media-heading heading title&quot;&gt;                       &lt;a title=&quot;Viber&quot; class=&quot;text-white&quot; href=&quot;viber://add?number=+375293039000&quot;&gt;Написать в Viber&lt;/a&gt;                       &lt;/h4&gt;                   &lt;/div&gt;                 &lt;/div&gt;               &lt;/div&gt;               &lt;div class=&quot;col-sm-4 footer-box-two pl-0 pr-0&quot;&gt;                 &lt;div class=&quot;footer-box icon-box media&quot;&gt; &lt;span href=&quot;#&quot; class=&quot;media-left pull-left mr-30 mr-sm-0 mb-sm-10 &quot;&gt;&lt;i class=&quot;fa fa-user text-white&quot;&gt;&lt;/i&gt;&lt;/span&gt;                   &lt;div class=&quot;media-body&quot;&gt;                     &lt;h4 class=&quot;media-heading heading title&quot;&gt;                       &lt;a class=&quot;popup-with-form text-white&quot; href=&quot;#request-call&quot;&gt;Заказать звонок&lt;/a&gt;                       &lt;/h4&gt;                     &lt;div id=&quot;request-call&quot; class=&quot;modal-promo-box bg-lightest mfp-hide&quot;&gt;                       &lt;h3&gt;Оставьте свой номер телефона, и мы перезвоним Вам&lt;/h3&gt;                       &lt;!-- Contact Form --&gt;                       &lt;form id=&quot;contact_form_1&quot; name=&quot;contact_form_1&quot; class=&quot;&quot; action=&quot;/includes/request-call.php&quot;                             method=&quot;post&quot;&gt;                         &lt;div class=&quot;row&quot;&gt;                           &lt;div class=&quot;col-sm-12&quot;&gt;                             &lt;div class=&quot;form-group&quot;&gt;                               &lt;label&gt;Имя                                 &lt;small&gt;*&lt;/small&gt;                               &lt;/label&gt;                               &lt;input name=&quot;form_name&quot; class=&quot;form-control&quot; type=&quot;text&quot; placeholder=&quot;Ваше имя&quot;                                      required=&quot;&quot;&gt;                             &lt;/div&gt;                           &lt;/div&gt;                         &lt;/div&gt;                         &lt;div class=&quot;row&quot;&gt;                           &lt;div class=&quot;col-sm-12&quot;&gt;                             &lt;div class=&quot;form-group&quot;&gt;                               &lt;label&gt;Телефон                                 &lt;small&gt;*&lt;/small&gt;                               &lt;/label&gt;                               &lt;input name=&quot;form_phone&quot; class=&quot;form-control required&quot; type=&quot;text&quot;                                      placeholder=&quot;Ваш телефон&quot;&gt;                             &lt;/div&gt;                           &lt;/div&gt;                         &lt;/div&gt;                         &lt;div class=&quot;form-group&quot;&gt;                           &lt;input name=&quot;form_botcheck&quot; class=&quot;form-control&quot; type=&quot;hidden&quot; value=&quot;&quot;/&gt;                           &lt;button type=&quot;submit&quot;                                   class=&quot;btn btn-flat btn-theme-colored text-uppercase mt-10 mb-sm-30 border-left-theme-color-2-4px&quot;                                   data-loading-text=&quot;Отправка...&quot;&gt;Отправить                           &lt;/button&gt;                         &lt;/div&gt;                       &lt;/form&gt;                       &lt;!-- Contact Form Validation--&gt;                       &lt;script type=&quot;text/javascript&quot;&gt;                           $(&quot;#contact_form_1&quot;).validate({                               submitHandler: function(form) {                                   var form_btn = $(form).find('button[type=&quot;submit&quot;]');                                   var form_result_div = '#form-result';                                   $(form_result_div).remove();                                   form_btn.before('&lt;div id=&quot;form-result&quot; class=&quot;alert alert-success&quot; role=&quot;alert&quot; style=&quot;display: none;&quot;&gt;&lt;/div&gt;');                                   var form_btn_old_msg = form_btn.html();                                   form_btn.html(form_btn.prop('disabled', true).data(&quot;loading-text&quot;));                                   $(form).ajaxSubmit({                                       dataType:  'json',                                       success: function(data) {                                           if( data.status == 'true' ) {                                               $(form).find('.form-control').val('');                                           }                                           form_btn.prop('disabled', false).html(form_btn_old_msg);                                           $(form_result_div).html(data.message).fadeIn('slow');                                           setTimeout(function(){ $(form_result_div).fadeOut('slow') }, 6000);                                       }                                   });                               }                           });                       &lt;/script&gt;                     &lt;/div&gt;                    &lt;/div&gt;                 &lt;/div&gt;               &lt;/div&gt;               &lt;div class=&quot;col-sm-4 footer-box-three pl-0 pr-sm-0&quot;&gt;                 &lt;div class=&quot;footer-box icon-box media&quot;&gt; &lt;span href=&quot;#&quot; class=&quot;media-left pull-left mr-30 mr-sm-0 mb-sm-10&quot;&gt;&lt;i class=&quot; fa fa-credit-card text-white&quot;&gt;&lt;/i&gt;&lt;/span&gt;                   &lt;div class=&quot;media-body&quot;&gt;                     &lt;h4 class=&quot;media-heading heading title&quot;&gt;&lt;a href=&quot;/about/requisites.html&quot; class=&quot;text-white&quot;&gt;Реквизиты для оплаты&lt;/a&gt;&lt;/h4&gt;                   &lt;/div&gt;                 &lt;/div&gt;               &lt;/div&gt;             &lt;/div&gt;           &lt;/div&gt;         &lt;/div&gt;       &lt;/div&gt;</replace>
       <replace />
+      <replace>&lt;span href=&quot;#&quot; class=&quot;lineheight-20&quot;&gt;Минск, Красная улица, 17&lt;/span&gt;</replace>
+      <replace>/our-courses/</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -147,11 +146,9 @@
         <option value="$PROJECT_DIR$/our-courses/vyisshaya_matematika_studentam_vuzov.html" />
         <option value="$PROJECT_DIR$/footer.html" />
         <option value="$PROJECT_DIR$/interesting/10_zapovedey_roditeley_ili_kak_pomoch_rebenku_v_uchebe.html" />
-        <option value="$PROJECT_DIR$/interesting/abiturientu_na_zametku_taktika_uspeshnoy_sdachi_tst.html" />
         <option value="$PROJECT_DIR$/css/responsive.css" />
         <option value="$PROJECT_DIR$/contacts/index.html" />
         <option value="$PROJECT_DIR$/includes/sendmail.php" />
-        <option value="$PROJECT_DIR$/css/style-main.css" />
         <option value="$PROJECT_DIR$/interesting/index.html" />
         <option value="$PROJECT_DIR$/interesting/index-data-2.html" />
         <option value="$PROJECT_DIR$/about/requisites.html" />
@@ -165,10 +162,12 @@
         <option value="$PROJECT_DIR$/includes/reservation.php" />
         <option value="$PROJECT_DIR$/about/index.html" />
         <option value="$PROJECT_DIR$/includes/request-call.php" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/prices/index.html" />
         <option value="$PROJECT_DIR$/our-courses/index.html" />
+        <option value="$PROJECT_DIR$/css/style-main.css" />
         <option value="$PROJECT_DIR$/our-courses/intensiv_na_kanikulah.html" />
+        <option value="$PROJECT_DIR$/interesting/abiturientu_na_zametku_taktika_uspeshnoy_sdachi_tst.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -182,9 +181,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="185" />
-    <option name="width" value="2375" />
-    <option name="height" value="1395" />
+    <option name="x" value="331" />
+    <option name="width" value="2229" />
+    <option name="height" value="1393" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -192,7 +191,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -213,12 +211,18 @@
             <path>
               <item name="math" type="b2602c69:ProjectViewProjectNode" />
               <item name="math" type="462c0819:PsiDirectoryNode" />
+              <item name="interesting" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="math" type="b2602c69:ProjectViewProjectNode" />
+              <item name="math" type="462c0819:PsiDirectoryNode" />
               <item name="our-courses" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -275,7 +279,8 @@
       <workItem from="1533838624266" duration="208000" />
       <workItem from="1533838917349" duration="3518000" />
       <workItem from="1533898222387" duration="1112000" />
-      <workItem from="1533908173853" duration="1866000" />
+      <workItem from="1533908173853" duration="5127000" />
+      <workItem from="1534148310653" duration="569000" />
     </task>
     <task id="LOCAL-00001" summary="оптимизация изображений">
       <created>1533840249616</created>
@@ -298,11 +303,32 @@
       <option name="project" value="LOCAL" />
       <updated>1533899315055</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="форма заказать звонок">
+      <created>1533910292679</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1533910292680</updated>
+    </task>
+    <task id="LOCAL-00005" summary="интенсив на каникулах">
+      <created>1533913365532</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1533913365532</updated>
+    </task>
+    <task id="LOCAL-00006" summary="интенсив на каникулах">
+      <created>1533913464817</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1533913464817</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52900000" />
+    <option name="totallyTimeSpent" value="56730000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -314,28 +340,29 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="148" y="0" width="1900" height="1116" extended-state="0" />
+    <frame x="265" y="0" width="1783" height="1114" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3291536" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="GitLabIntegration" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.3291536" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3291536" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16956522" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3291536" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3329843" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19907139" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -347,7 +374,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="оптимизация изображений" />
     <MESSAGE value="правки форм" />
-    <option name="LAST_COMMIT_MESSAGE" value="правки форм" />
+    <MESSAGE value="форма заказать звонок" />
+    <MESSAGE value="интенсив на каникулах" />
+    <option name="LAST_COMMIT_MESSAGE" value="интенсив на каникулах" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/css/style-main.css">
@@ -473,13 +502,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/interesting/abiturientu_na_zametku_taktika_uspeshnoy_sdachi_tst.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="875">
-          <caret line="279" selection-start-line="279" selection-end-line="279" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/css-plugin-collections.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="303">
@@ -533,13 +555,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="269">
           <caret line="140" column="36" selection-start-line="140" selection-start-column="36" selection-end-line="140" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style-main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="797">
-          <caret line="7182" column="13" selection-start-line="7182" selection-start-column="13" selection-end-line="7182" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -614,9 +629,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2133">
           <caret line="357" lean-forward="true" selection-start-line="263" selection-start-column="12" selection-end-line="357" />
-          <folding>
-            <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -624,6 +636,32 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="303">
           <caret line="289" selection-start-line="289" selection-end-line="289" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style-main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18445">
+          <caret line="1085" selection-start-line="1085" selection-end-line="1087" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/our-courses/intensiv_na_kanikulah.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="210" column="49" selection-start-line="210" selection-start-column="49" selection-end-line="210" selection-end-column="49" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" />
+            <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interesting/abiturientu_na_zametku_taktika_uspeshnoy_sdachi_tst.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="149" column="87" selection-start-line="149" selection-start-column="87" selection-end-line="149" selection-end-column="87" />
           <folding>
             <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
           </folding>
@@ -632,20 +670,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="1465" column="12" lean-forward="true" selection-start-line="1465" selection-start-column="12" selection-end-line="1465" selection-end-column="12" />
+        <state relative-caret-position="531">
+          <caret line="1338" column="56" selection-start-line="1338" selection-start-column="56" selection-end-line="1338" selection-end-column="56" />
           <folding>
             <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#div#0;n#section#10;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/our-courses/intensiv_na_kanikulah.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="501">
-          <caret line="155" column="49" selection-start-line="155" selection-start-column="49" selection-end-line="155" selection-end-column="49" />
-          <folding>
             <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
           </folding>
         </state>
