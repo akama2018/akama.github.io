@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="778ed120-ae10-4b53-8802-af4a8eb1a977" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interesting/abiturientu_na_zametku_taktika_uspeshnoy_sdachi_tst.html" beforeDir="false" afterPath="$PROJECT_DIR$/interesting/abiturientu_na_zametku_taktika_uspeshnoy_sdachi_tst.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/sendmail.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/sendmail.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,51 +14,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="reservation.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/reservation.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="531">
-              <caret line="1338" column="56" selection-start-line="1338" selection-start-column="56" selection-end-line="1338" selection-end-column="56" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#div#0;n#section#10;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="527">
+              <caret line="59" selection-start-line="59" selection-end-line="60" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="abiturientu_na_zametku_taktika_uspeshnoy_sdachi_tst.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/interesting/abiturientu_na_zametku_taktika_uspeshnoy_sdachi_tst.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contacts/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="467">
-              <caret line="149" column="87" selection-start-line="149" selection-start-column="87" selection-end-line="149" selection-end-column="87" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="1403">
+              <caret line="238" column="33" lean-forward="true" selection-start-line="238" selection-start-column="33" selection-end-line="238" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="intensiv_na_kanikulah.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/our-courses/intensiv_na_kanikulah.html">
+      <file leaf-file-name="sendmail.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/includes/sendmail.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="210" column="49" selection-start-line="210" selection-start-column="49" selection-end-line="210" selection-end-column="49" />
-              <folding>
-                <element signature="n#head#0;n#html#0;n#!!top" />
-                <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style-main.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/style-main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18445">
-              <caret line="1085" selection-start-line="1085" selection-end-line="1087" />
+            <state relative-caret-position="153">
+              <caret line="9" selection-start-line="9" selection-start-column="2" selection-end-line="15" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -148,7 +125,6 @@
         <option value="$PROJECT_DIR$/interesting/10_zapovedey_roditeley_ili_kak_pomoch_rebenku_v_uchebe.html" />
         <option value="$PROJECT_DIR$/css/responsive.css" />
         <option value="$PROJECT_DIR$/contacts/index.html" />
-        <option value="$PROJECT_DIR$/includes/sendmail.php" />
         <option value="$PROJECT_DIR$/interesting/index.html" />
         <option value="$PROJECT_DIR$/interesting/index-data-2.html" />
         <option value="$PROJECT_DIR$/about/requisites.html" />
@@ -168,6 +144,7 @@
         <option value="$PROJECT_DIR$/our-courses/intensiv_na_kanikulah.html" />
         <option value="$PROJECT_DIR$/interesting/abiturientu_na_zametku_taktika_uspeshnoy_sdachi_tst.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/includes/sendmail.php" />
       </list>
     </option>
   </component>
@@ -206,17 +183,7 @@
             <path>
               <item name="math" type="b2602c69:ProjectViewProjectNode" />
               <item name="math" type="462c0819:PsiDirectoryNode" />
-              <item name="contacts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="math" type="b2602c69:ProjectViewProjectNode" />
-              <item name="math" type="462c0819:PsiDirectoryNode" />
-              <item name="interesting" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="math" type="b2602c69:ProjectViewProjectNode" />
-              <item name="math" type="462c0819:PsiDirectoryNode" />
-              <item name="our-courses" type="462c0819:PsiDirectoryNode" />
+              <item name="includes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -228,7 +195,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../galt.loc" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../politsecrets.loc" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
@@ -280,7 +247,7 @@
       <workItem from="1533838917349" duration="3518000" />
       <workItem from="1533898222387" duration="1112000" />
       <workItem from="1533908173853" duration="5127000" />
-      <workItem from="1534148310653" duration="569000" />
+      <workItem from="1534148310653" duration="1420000" />
     </task>
     <task id="LOCAL-00001" summary="оптимизация изображений">
       <created>1533840249616</created>
@@ -324,11 +291,18 @@
       <option name="project" value="LOCAL" />
       <updated>1533913464817</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="правки на главной">
+      <created>1534149093155</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1534149093156</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56730000" />
+    <option name="totallyTimeSpent" value="57581000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -341,14 +315,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="265" y="0" width="1783" height="1114" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3291536" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="GitLabIntegration" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3291536" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32879582" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3329843" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19907139" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -376,7 +349,8 @@
     <MESSAGE value="правки форм" />
     <MESSAGE value="форма заказать звонок" />
     <MESSAGE value="интенсив на каникулах" />
-    <option name="LAST_COMMIT_MESSAGE" value="интенсив на каникулах" />
+    <MESSAGE value="правки на главной" />
+    <option name="LAST_COMMIT_MESSAGE" value="правки на главной" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/css/style-main.css">
@@ -523,20 +497,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contacts/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="791">
-          <caret line="238" column="33" lean-forward="true" selection-start-line="172" selection-start-column="24" selection-end-line="238" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/includes/sendmail.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="38" lean-forward="true" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/interesting/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="538">
@@ -611,13 +571,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/includes/reservation.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="72" selection-start-line="72" selection-end-line="73" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/includes/request-call.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
@@ -677,6 +630,27 @@
             <element signature="n#div#0;n#section#10;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contacts/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1403">
+          <caret line="238" column="33" lean-forward="true" selection-start-line="238" selection-start-column="33" selection-end-line="238" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/reservation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="59" selection-start-line="59" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/sendmail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-start-column="2" selection-end-line="15" selection-end-column="21" />
         </state>
       </provider>
     </entry>
