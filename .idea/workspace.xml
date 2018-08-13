@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="778ed120-ae10-4b53-8802-af4a8eb1a977" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/includes/sendmail.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/sendmail.php" afterDir="false" />
-    </list>
+    <list default="true" id="778ed120-ae10-4b53-8802-af4a8eb1a977" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,10 +11,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="reservation.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="reservation.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/includes/reservation.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
+            <state relative-caret-position="197">
               <caret line="59" selection-start-line="59" selection-end-line="60" />
             </state>
           </provider>
@@ -32,7 +29,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sendmail.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="sendmail.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/includes/sendmail.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
@@ -158,9 +155,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="331" />
-    <option name="width" value="2229" />
-    <option name="height" value="1393" />
+    <option name="x" value="330" />
+    <option name="width" value="2230" />
+    <option name="height" value="1394" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -247,7 +244,7 @@
       <workItem from="1533838917349" duration="3518000" />
       <workItem from="1533898222387" duration="1112000" />
       <workItem from="1533908173853" duration="5127000" />
-      <workItem from="1534148310653" duration="1420000" />
+      <workItem from="1534148310653" duration="1647000" />
     </task>
     <task id="LOCAL-00001" summary="оптимизация изображений">
       <created>1533840249616</created>
@@ -298,11 +295,18 @@
       <option name="project" value="LOCAL" />
       <updated>1534149093156</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="правки форм">
+      <created>1534149852765</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1534149852765</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57581000" />
+    <option name="totallyTimeSpent" value="57808000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -321,9 +325,9 @@
       <window_info anchor="bottom" id="GitLabIntegration" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32879582" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32879582" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3329843" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19907139" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19907139" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -346,11 +350,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="оптимизация изображений" />
-    <MESSAGE value="правки форм" />
     <MESSAGE value="форма заказать звонок" />
     <MESSAGE value="интенсив на каникулах" />
     <MESSAGE value="правки на главной" />
-    <option name="LAST_COMMIT_MESSAGE" value="правки на главной" />
+    <MESSAGE value="правки форм" />
+    <option name="LAST_COMMIT_MESSAGE" value="правки форм" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/css/style-main.css">
@@ -640,17 +644,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/includes/reservation.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="59" selection-start-line="59" selection-end-line="60" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/includes/sendmail.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" selection-start-line="9" selection-start-column="2" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/reservation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="59" selection-start-line="59" selection-end-line="60" />
         </state>
       </provider>
     </entry>
