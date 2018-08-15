@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="778ed120-ae10-4b53-8802-af4a8eb1a977" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/test/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="778ed120-ae10-4b53-8802-af4a8eb1a977" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,11 +11,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="574">
-              <caret line="1439" column="37" selection-start-line="1439" selection-start-column="37" selection-end-line="1439" selection-end-column="37" />
+            <state relative-caret-position="298">
+              <caret line="769" column="74" selection-start-line="769" selection-start-column="70" selection-end-line="769" selection-end-column="74" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#div#0;n#section#10;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -26,7 +24,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="370">
@@ -62,7 +60,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>/img/20.jpg</find>
       <find>пробн</find>
       <find>form_botcheck</find>
       <find>car_select</find>
@@ -92,6 +89,7 @@
       <find>АБИТУРИЕНТУ НА ЗАМЕТКУ: ТАКТИКА УСПЕШНОЙ СДАЧИ ЦТ</find>
       <find>layers.css</find>
       <find>akciya_studenty.jpg</find>
+      <find>src=&quot;imag</find>
     </findStrings>
     <replaceStrings>
       <replace>/img/</replace>
@@ -120,6 +118,7 @@
       <replace>Скрыть прелоадер</replace>
       <replace />
       <replace>$1</replace>
+      <replace>src=&quot;/imag</replace>
     </replaceStrings>
     <dirStrings>
       <dir>F:\OpenServer\domains\math\about</dir>
@@ -271,7 +270,7 @@
       <workItem from="1534152156545" duration="844000" />
       <workItem from="1534162518917" duration="3685000" />
       <workItem from="1534172229988" duration="789000" />
-      <workItem from="1534322807119" duration="1104000" />
+      <workItem from="1534322807119" duration="1401000" />
     </task>
     <task id="LOCAL-00001" summary="оптимизация изображений">
       <created>1533840249616</created>
@@ -378,11 +377,18 @@
       <option name="project" value="LOCAL" />
       <updated>1534323816985</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="test page">
+      <created>1534323946731</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1534323946731</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65067000" />
+    <option name="totallyTimeSpent" value="65364000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -401,10 +407,10 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="GitLabIntegration" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32404542" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32404542" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.33230135" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18081918" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18081918" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -433,7 +439,8 @@
     <MESSAGE value="оптимизация изображений" />
     <MESSAGE value="названия  описание страниц" />
     <MESSAGE value="оптимизация" />
-    <option name="LAST_COMMIT_MESSAGE" value="оптимизация" />
+    <MESSAGE value="test page" />
+    <option name="LAST_COMMIT_MESSAGE" value="test page" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/interesting/mifyi_o_tst_.html" />
@@ -721,17 +728,6 @@
     <entry file="file://$PROJECT_DIR$/js/revolution-slider/css/settings.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="574">
-          <caret line="1439" column="37" selection-start-line="1439" selection-start-column="37" selection-end-line="1439" selection-end-column="37" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#div#0;n#section#10;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="370">
@@ -751,6 +747,17 @@
             <element signature="n#style#0;n#div#3;n#li#2;n#ul#0;n#div#0;n#div#0;n#section#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="769" column="74" selection-start-line="769" selection-start-column="70" selection-end-line="769" selection-end-column="74" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#section#10;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
       </provider>
