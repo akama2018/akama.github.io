@@ -62,9 +62,21 @@ html{font-size:60%;}
 .team-block .team-thumb .styled-icons{padding:9px 20px 0 25px;}
 .team-block .team-thumb .styled-icons::after{border-width:26px;left:-52px;}
 }
-@media only screen and (max-width:479px){html{font-size:50%;}
-.vertical-text-carousel .owl-controls .owl-buttons{top:18%;}
-#gallery .gallery-isotope.grid-4 .gallery-item{height:auto;overflow:visible;}
+
+@media only screen and (max-width: 479px) {
+    html {
+        font-size: 50%;
+    }
+    .vertical-text-carousel .owl-controls .owl-buttons {
+        top: 18%;
+    }
+    #gallery .gallery-isotope.grid-4 .gallery-item {
+        height: auto;
+        overflow: visible;
+    }
+    .menuzord-brand img {
+        max-height: 34px;
+    }
 }
 @media only screen and (max-width:360px){.team-block .team-thumb .styled-icons{padding:8px 20px 0 25px;}
 .team-block .team-thumb .team-overlay{height:88%;}
