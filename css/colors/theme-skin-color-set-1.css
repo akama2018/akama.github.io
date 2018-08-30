@@ -112,9 +112,9 @@
 .pricing:hover,
 .portfolio-filter a.active,
 .portfolio-filter a:hover,
-.project .hover-link i{background:#1F386B !important;}
+.project .hover-link i{background:#E41937 !important;}
 .pricing.table-horizontal,
-.pricing{background:#E41937 !important;}
+.pricing{background:#1F386B !important;}
 .panel-group .panel-title a.active{background-color:#1F386B !important;}
 .dark .service-icon-box:hover li.active a{background:#1F386B !important;}
 .footer-box-one > div{background:#1F386B;}
