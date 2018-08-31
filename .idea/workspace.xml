@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="778ed120-ae10-4b53-8802-af4a8eb1a977" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/img/12_c.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/our-courses/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/our-courses/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/our-courses/secrety_ustnoho_scheta.html" beforeDir="false" afterPath="$PROJECT_DIR$/our-courses/secrety_ustnoho_scheta.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,11 +20,10 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="674" column="72" selection-start-line="674" selection-start-column="72" selection-end-line="674" selection-end-column="72" />
+            <state relative-caret-position="162">
+              <caret line="715" column="87" selection-start-line="715" selection-start-column="87" selection-end-line="715" selection-end-column="87" />
               <folding>
                 <element signature="n#div#0;n#div#0;n#div#0;n#section#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#section#4;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#section#5;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#section#6;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#6;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -31,6 +33,30 @@
                 <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#7;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#7;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="secrety_ustnoho_scheta.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/our-courses/secrety_ustnoho_scheta.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1870">
+              <caret line="160" column="76" selection-start-line="160" selection-start-column="76" selection-end-line="160" selection-end-column="81" />
+              <folding>
+                <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/our-courses/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="214" column="91" lean-forward="true" selection-start-line="214" selection-start-column="91" selection-end-line="214" selection-end-column="91" />
+              <folding>
                 <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
               </folding>
             </state>
@@ -53,11 +79,8 @@
       <file leaf-file-name="requisites.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about/requisites.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
+            <state relative-caret-position="2482">
               <caret line="146" column="72" selection-start-line="146" selection-start-column="72" selection-end-line="146" selection-end-column="72" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -131,8 +154,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Подготовка к ЦТ по математике</find>
-      <find>на заме</find>
       <find>utility-classes</find>
       <find>&lt;meta name=&quot;keywords&quot; content=&quot;academy, course, education, education html theme, elearning, learning,&quot;/&gt;</find>
       <find>=&quot;&quot;</find>
@@ -161,6 +182,8 @@
       <find>Добро пожаловать</find>
       <find>Velcom</find>
       <find>href=&quot;javascript:void(0)&quot;</find>
+      <find>мы запустили</find>
+      <find>онл</find>
     </findStrings>
     <replaceStrings>
       <replace>/img/</replace>
@@ -216,7 +239,6 @@
         <option value="$PROJECT_DIR$/includes/reservation.php" />
         <option value="$PROJECT_DIR$/includes/request-call.php" />
         <option value="$PROJECT_DIR$/includes/sendmail.php" />
-        <option value="$PROJECT_DIR$/our-courses/index.html" />
         <option value="$PROJECT_DIR$/our-courses/intensiv_na_kanikulah.html" />
         <option value="$PROJECT_DIR$/our-courses/s_geometriey_na_tyi.html" />
         <option value="$PROJECT_DIR$/our-courses/shkola_na_otlichno.html" />
@@ -230,7 +252,6 @@
         <option value="$PROJECT_DIR$/interesting/pravila_jizni_malenkogo_printsa.html" />
         <option value="$PROJECT_DIR$/our-courses/podgotovka_k_tst.html" />
         <option value="$PROJECT_DIR$/our-courses/podgotovka_k_tst_phisika.html" />
-        <option value="$PROJECT_DIR$/our-courses/secrety_ustnoho_scheta.html" />
         <option value="$PROJECT_DIR$/test/index.html" />
         <option value="$PROJECT_DIR$/.htaccess" />
         <option value="$PROJECT_DIR$/css/responsive.css" />
@@ -240,6 +261,8 @@
         <option value="$PROJECT_DIR$/css/style-main.css" />
         <option value="$PROJECT_DIR$/contacts/index.html" />
         <option value="$PROJECT_DIR$/about/requisites.html" />
+        <option value="$PROJECT_DIR$/our-courses/secrety_ustnoho_scheta.html" />
+        <option value="$PROJECT_DIR$/our-courses/index.html" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -265,7 +288,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -302,6 +324,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -313,17 +336,17 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\OpenServer\domains\math\img" />
+      <recent name="F:\OpenServer\domains\math\img\newsdetail" />
+      <recent name="F:\OpenServer\domains\math\images" />
+      <recent name="F:\OpenServer\domains\math\test" />
+      <recent name="F:\OpenServer\domains\math\js\revolution-slider\css" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\OpenServer\domains\math\images" />
       <recent name="F:\OpenServer\domains\math\img\newsdetail" />
       <recent name="F:\OpenServer\domains\math\img" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\OpenServer\domains\math\img\newsdetail" />
-      <recent name="F:\OpenServer\domains\math\img" />
-      <recent name="F:\OpenServer\domains\math\images" />
-      <recent name="F:\OpenServer\domains\math\test" />
-      <recent name="F:\OpenServer\domains\math\js\revolution-slider\css" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -368,7 +391,8 @@
       <workItem from="1534322807119" duration="5508000" />
       <workItem from="1534428456338" duration="1729000" />
       <workItem from="1535649867734" duration="6684000" />
-      <workItem from="1535733247108" duration="345000" />
+      <workItem from="1535733247108" duration="1751000" />
+      <workItem from="1535735058184" duration="266000" />
     </task>
     <task id="LOCAL-00001" summary="оптимизация изображений">
       <created>1533840249616</created>
@@ -545,11 +569,25 @@
       <option name="project" value="LOCAL" />
       <updated>1535660042676</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="заменить логотип и картинки на главной">
+      <created>1535733693234</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1535733693235</updated>
+    </task>
+    <task id="LOCAL-00027" summary="лого в футере">
+      <created>1535734577926</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1535734577926</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78229000" />
+    <option name="totallyTimeSpent" value="79901000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -562,6 +600,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2062" height="1128" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3291536" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -570,7 +609,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32404542" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.33230135" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18681319" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18881118" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -606,7 +645,9 @@
     <MESSAGE value="убрала прелоадер на главной" />
     <MESSAGE value="вернула прелоадер на главной" />
     <MESSAGE value="правки по сайту" />
-    <option name="LAST_COMMIT_MESSAGE" value="правки по сайту" />
+    <MESSAGE value="заменить логотип и картинки на главной" />
+    <MESSAGE value="лого в футере" />
+    <option name="LAST_COMMIT_MESSAGE" value="лого в футере" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/includes/sendmail.php">
@@ -636,13 +677,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/utility-classes.css">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/our-courses/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/our-courses/s_geometriey_na_tyi.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -725,13 +759,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="223" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="223" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/our-courses/secrety_ustnoho_scheta.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="56" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
         </state>
       </provider>
     </entry>
@@ -885,8 +912,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/about/requisites.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
+        <state relative-caret-position="2482">
           <caret line="146" column="72" selection-start-line="146" selection-start-column="72" selection-end-line="146" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/our-courses/secrety_ustnoho_scheta.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1870">
+          <caret line="160" column="76" selection-start-line="160" selection-start-column="76" selection-end-line="160" selection-end-column="81" />
+          <folding>
+            <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/our-courses/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="214" column="91" lean-forward="true" selection-start-line="214" selection-start-column="91" selection-end-line="214" selection-end-column="91" />
           <folding>
             <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
           </folding>
@@ -895,11 +939,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="674" column="72" selection-start-line="674" selection-start-column="72" selection-end-line="674" selection-end-column="72" />
+        <state relative-caret-position="162">
+          <caret line="715" column="87" selection-start-line="715" selection-start-column="87" selection-end-line="715" selection-end-column="87" />
           <folding>
             <element signature="n#div#0;n#div#0;n#div#0;n#section#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#section#4;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#5;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#6;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#6;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
