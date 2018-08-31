@@ -2,7 +2,11 @@
 @media only screen and (min-width:480px){}
 @media only screen and (min-width:768px){}
 @media only screen and (min-width:992px){}
-@media only screen and (min-width:1200px){}
+@media only screen and (max-width:1200px){
+    .logo_text{
+        display: none;
+    }
+}
 @media only screen and (max-width:1199px){.service-block .thumb .desc{bottom:-47%;}
 .team-block .team-thumb .team-overlay{padding:10px 15px;height:82%;}
 .team-block .team-thumb .team-overlay::after{left:0px;}
@@ -32,6 +36,7 @@
 .team-block .team-thumb .styled-icons{padding:10px 20px 0 25px;width:88%;}
 .team-block .team-thumb .team-overlay{height:88%;}
 .team-block .team-thumb .team-overlay{padding:50px 30px;}
+    .hide-phone{        display: none;    }
 }
 @media only screen and (max-width:767px){.menuzord-responsive .menuzord-brand{margin:8px 0 10px 0;}
 #wrapper{overflow:hidden;}
@@ -63,6 +68,35 @@ html{font-size:60%;}
 .team-block .team-thumb .styled-icons::after{border-width:26px;left:-52px;}
 }
 
+@media all and (max-width: 675px) {
+    .menuzord-brand img{
+        display: none;
+    }
+    .menuzord-brand .mob-img{
+        display: block;
+        position: static;
+        max-height: 58px;
+        width: auto;
+    }
+    .scroll-to-fixed-fixed .menuzord-brand .hide-img{
+        display: none;
+    }
+    .scroll-to-fixed-fixed .menuzord-brand .mob-img{
+        display: inline-block;
+        position: static;
+        max-height: 58px;
+        width: auto;
+    }
+    .header-top .widget.no-border{
+        padding-left: 0;
+    }
+    .teachers_title {
+        display: none;
+    }
+    .menuzord .showhide{
+        padding: 25px 0 0;
+    }
+}
 @media only screen and (max-width: 479px) {
     html {
         font-size: 50%;
