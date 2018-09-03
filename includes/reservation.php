@@ -30,7 +30,7 @@ if( $_SERVER['REQUEST_METHOD'] == 'POST' ) {
 
         $botcheck = $_POST['form_botcheck'];
 
-        $toemail = 'prihodko@globalsolutions.ru'; // Your Email Address
+        $toemail = 'nataliabasalaeva@mail.ru'; // Your Email Address
         $toname = 'Академия Математики';                // Receiver Name
 
         if( $botcheck == '' ) {
