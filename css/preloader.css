@@ -264,7 +264,26 @@
 @-moz-keyframes cssload-animation{0%{-moz-transform:scale(0);}
 100%{-moz-transform:scale(1);}
 }
-.preloader-dot-circle-rotator{position:relative;width:12px;height:12px;left:46%;left:calc(50% - 6px);left:-o-calc(50% - 6px);left:-ms-calc(50% - 6px);left:-webkit-calc(50% - 6px);left:-moz-calc(50% - 6px);border-radius:12px;background-color:rgb(0,0,0);transform-origin:50% 50%;-o-transform-origin:50% 50%;-ms-transform-origin:50% 50%;-webkit-transform-origin:50% 50%;-moz-transform-origin:50% 50%;animation:cssload-loader 1.15s ease-in-out infinite;-o-animation:cssload-loader 1.15s ease-in-out infinite;-ms-animation:cssload-loader 1.15s ease-in-out infinite;-webkit-animation:cssload-loader 1.15s ease-in-out infinite;-moz-animation:cssload-loader 1.15s ease-in-out infinite;}
+
+.preloader-dot-circle-rotator {
+    position: relative;
+    width: 12px;
+    height: 12px;
+    left: 46%;
+    left: calc(50% - 6px);
+    border-radius: 12px;
+    background-color: rgb(0, 0, 0);
+    transform-origin: 50% 50%;
+    -o-transform-origin: 50% 50%;
+    -ms-transform-origin: 50% 50%;
+    -webkit-transform-origin: 50% 50%;
+    -moz-transform-origin: 50% 50%;
+    animation: cssload-loader 1.15s ease-in-out infinite;
+    -o-animation: cssload-loader 1.15s ease-in-out infinite;
+    -ms-animation: cssload-loader 1.15s ease-in-out infinite;
+    -webkit-animation: cssload-loader 1.15s ease-in-out infinite;
+    -moz-animation: cssload-loader 1.15s ease-in-out infinite;
+}
 .preloader-dot-circle-rotator:before{content:"";position:absolute;background-color:rgb(0,0,0);top:0px;left:-24px;height:12px;width:12px;border-radius:12px;}
 .preloader-dot-circle-rotator:after{content:"";position:absolute;background-color:rgb(0,0,0);top:0px;left:24px;height:12px;width:12px;border-radius:12px;}
 @keyframes cssload-loader{0%{transform:rotate(0deg);}
@@ -500,7 +519,7 @@
 .preloader-equalizer{position:absolute;margin:50px auto;left:0;right:0;width:88px;}
 .preloader-equalizer ul{margin:0;list-style:none;width:88px;height:63px;position:relative;padding:0;height:10px;}
 .preloader-equalizer ul li{position:absolute;width:2px;height:0;background-color:rgb(0,0,0);bottom:0;}
-.preloader-equalizer li:nth-child(1){left:0;animation:cssload-sequence1 1.15s ease infinite 0;-o-animation:cssload-sequence1 1.15s ease infinite 0;-ms-animation:cssload-sequence1 1.15s ease infinite 0;-webkit-animation:cssload-sequence1 1.15s ease infinite 0;-moz-animation:cssload-sequence1 1.15s ease infinite 0;}
+.preloader-equalizer li:nth-child(1){left:0;animation:cssload-sequence1 1.15s ease infinite ;-o-animation:cssload-sequence1 1.15s ease infinite ;-ms-animation:cssload-sequence1 1.15s ease infinite ;-webkit-animation:cssload-sequence1 1.15s ease infinite ;-moz-animation:cssload-sequence1 1.15s ease infinite ;}
 .preloader-equalizer li:nth-child(2){left:15px;animation:cssload-sequence2 1.15s ease infinite 0.12s;-o-animation:cssload-sequence2 1.15s ease infinite 0.12s;-ms-animation:cssload-sequence2 1.15s ease infinite 0.12s;-webkit-animation:cssload-sequence2 1.15s ease infinite 0.12s;-moz-animation:cssload-sequence2 1.15s ease infinite 0.12s;}
 .preloader-equalizer li:nth-child(3){left:29px;animation:cssload-sequence1 1.15s ease-in-out infinite 0.23s;-o-animation:cssload-sequence1 1.15s ease-in-out infinite 0.23s;-ms-animation:cssload-sequence1 1.15s ease-in-out infinite 0.23s;-webkit-animation:cssload-sequence1 1.15s ease-in-out infinite 0.23s;-moz-animation:cssload-sequence1 1.15s ease-in-out infinite 0.23s;}
 .preloader-equalizer li:nth-child(4){left:44px;animation:cssload-sequence2 1.15s ease-in infinite 0.35s;-o-animation:cssload-sequence2 1.15s ease-in infinite 0.35s;-ms-animation:cssload-sequence2 1.15s ease-in infinite 0.35s;-webkit-animation:cssload-sequence2 1.15s ease-in infinite 0.35s;-moz-animation:cssload-sequence2 1.15s ease-in infinite 0.35s;}
