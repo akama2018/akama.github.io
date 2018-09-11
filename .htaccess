@@ -167,22 +167,28 @@ ExpiresByType application/vnd.ms-fontobject "access plus 1 month"
 <IfModule mod_rewrite.c>
 Options +FollowSymLinks
 RewriteEngine On
-Redirect 301 /podgotovka_k_tst/  http://akama.by/our-courses/podgotovka_k_tst.html
-Redirect 301 /intensiv_na_kanikulah/  http://akama.by/our-courses/intensiv_na_kanikulah.html
-Redirect 301 /matematika_dlia_vzroslyh/  http://akama.by/our-courses/matematika_dlia_vzroslyh.html
-Redirect 301 /podgotovka_k_tst_phisika/  http://akama.by/our-courses/podgotovka_k_tst_phisika.html
-Redirect 301 /s_geometriey_na_tyi/  http://akama.by/our-courses/s_geometriey_na_tyi.html
-Redirect 301 /secrety_ustnoho_scheta/  http://akama.by/our-courses/secrety_ustnoho_scheta.html
-Redirect 301 /shkola_na_otlichno/  http://akama.by/our-courses/shkola_na_otlichno.html
-Redirect 301 /tsenyi/  http://akama.by/prices/
-Redirect 301 /programmyi_obucheniya/  http://akama.by/our-courses/
-Redirect 301 /roditelyam/  http://akama.by/interesting/
-Redirect 301 /contacts/  http://akama.by/contacts/
-Redirect 301 /kak_reshit_problemyi_s_matematikoy/  http://akama.by/interesting/kak_reshit_problemyi_s_matematikoy.html
-Redirect 301 /abiturientu_na_zametku_taktika_uspeshnoy_sdachi_tst/ http://akama.by/interesting/abiturientu_na_zametku_taktika_uspeshnoy_sdachi_tst.html
-Redirect 301 /mifyi_o_tst/  http://akama.by/interesting/mifyi_o_tst.html
-Redirect 301 /mama_i_papa_glazami_rebenka/ http://akama.by/interesting/mama_i_papa_glazami_rebenka.html
-Redirect 301 /pravila_jizni_malenkogo_printsa/ http://akama.by/interesting/pravila_jizni_malenkogo_printsa.html
-Redirect 301 /10_zapovedey_roditeley_ili_kak_pomoch_rebenku_v_uchebe/  http://akama.by/interesting/10_zapovedey_roditeley_ili_kak_pomoch_rebenku_v_uchebe.html
+
+RewriteCond %{SERVER_PORT} !^443$
+RewriteRule .* https://%{SERVER_NAME}%{REQUEST_URI} [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^www.akama.by$ [NC]
+RewriteRule ^(.*)$ https://akama.by/$1 [R=301,L]
+
+Redirect 301 /podgotovka_k_tst/  https://akama.by/our-courses/podgotovka_k_tst.html
+Redirect 301 /intensiv_na_kanikulah/  https://akama.by/our-courses/intensiv_na_kanikulah.html
+Redirect 301 /matematika_dlia_vzroslyh/  https://akama.by/our-courses/matematika_dlia_vzroslyh.html
+Redirect 301 /podgotovka_k_tst_phisika/  https://akama.by/our-courses/podgotovka_k_tst_phisika.html
+Redirect 301 /s_geometriey_na_tyi/  https://akama.by/our-courses/s_geometriey_na_tyi.html
+Redirect 301 /secrety_ustnoho_scheta/  https://akama.by/our-courses/secrety_ustnoho_scheta.html
+Redirect 301 /shkola_na_otlichno/  https://akama.by/our-courses/shkola_na_otlichno.html
+Redirect 301 /tsenyi/  https://akama.by/prices/
+Redirect 301 /programmyi_obucheniya/  https://akama.by/our-courses/
+Redirect 301 /roditelyam/  https://akama.by/interesting/
+Redirect 301 /kak_reshit_problemyi_s_matematikoy/  https://akama.by/interesting/kak_reshit_problemyi_s_matematikoy.html
+Redirect 301 /abiturientu_na_zametku_taktika_uspeshnoy_sdachi_tst/ https://akama.by/interesting/abiturientu_na_zametku_taktika_uspeshnoy_sdachi_tst.html
+Redirect 301 /mifyi_o_tst/  https://akama.by/interesting/mifyi_o_tst.html
+Redirect 301 /mama_i_papa_glazami_rebenka/ https://akama.by/interesting/mama_i_papa_glazami_rebenka.html
+Redirect 301 /pravila_jizni_malenkogo_printsa/ https://akama.by/interesting/pravila_jizni_malenkogo_printsa.html
+Redirect 301 /10_zapovedey_roditeley_ili_kak_pomoch_rebenku_v_uchebe/  https://akama.by/interesting/10_zapovedey_roditeley_ili_kak_pomoch_rebenku_v_uchebe.html
 
 </IfModule>
