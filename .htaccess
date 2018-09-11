@@ -168,6 +168,8 @@ ExpiresByType application/vnd.ms-fontobject "access plus 1 month"
 Options +FollowSymLinks
 RewriteEngine On
 
+ErrorDocument 404 /404.html
+
 RewriteCond %{SERVER_PORT} !^443$
 RewriteRule .* https://%{SERVER_NAME}%{REQUEST_URI} [R=301,L]
 
