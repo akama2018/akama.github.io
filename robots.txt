@@ -1,0 +1,12 @@
+User-agent: *
+Disallow:
+Disallow: /css/
+Disallow: /ajax-load/
+Disallow: /doc/
+Disallow: /fonts/
+Disallow: /images/
+Disallow: /img/
+Disallow: /includes/
+Disallow: /js/
+Disallow: /test/
+Sitemap: https://akama.by/sitemap.xml
