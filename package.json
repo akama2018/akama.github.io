@@ -1,0 +1,27 @@
+{
+  "name": "alesia",
+  "version": "1.0.0",
+  "description": "\"# akama.github.io\" \r \"# akama.github.io\" \r \"# akama.github.io\" \r \"# akama.github.io\"",
+  "main": "gulpfile.js",
+  "directories": {
+    "doc": "doc",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akama2018/akama.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akama2018/akama.github.io/issues"
+  },
+  "homepage": "https://github.com/akama2018/akama.github.io#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat-css": "^3.1.0"
+  }
+}
