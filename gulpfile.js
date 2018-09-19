@@ -1,27 +1,5 @@
 var gulp = require('gulp');
-// var sass = require('gulp-sass');
-// var browserSync = require('browser-sync');
-// var rigger = require('gulp-rigger');
-// var del = require('del');
-// var autoprefixer = require('gulp-autoprefixer');
-//
-//
-// var config = {
-//     src: {
-//         main: "app/",
-//         js: "js/",
-//         css: "css/",
-//         pages: "pages/"
-//     },
-//     dest: {
-//         main: "",
-//         js: "js/",
-//         css: "css/",
-//         pages: "pages/"
-//     }
-//
-// };
-
+var concatCss = require('gulp-concat-css');
 var concat = require('gulp-concat');
 
 gulp.task('scripts', function() {
@@ -30,13 +8,12 @@ gulp.task('scripts', function() {
         .pipe(gulp.dest('./js/'));
 });
 
-// var concatCss = require('gulp-concat-css');
 
-// gulp.task('default', function () {
-//     return gulp.src('assets/**/*.css')
-//         .pipe(concatCss("styles/bundle.css"))
-//         .pipe(gulp.dest('out/'));
-// });
+gulp.task('css', function () {
+    return gulp.src(['./css/bootstrap.min.css','./css/jquery-ui.min.css','./css/animate.css', './css/css-plugin-collections.css', './css/menuzord-skins/menuzord-rounded-boxed.css', './css/preloader.css', './css/custom-bootstrap-margin-padding.css','./js/revolution-slider/css/*.css', './css/colors/theme-skin-color-set-1.css', './css/style-main.css', './css/responsive.css'])
+        .pipe(concatCss("all.css"))
+        .pipe(gulp.dest('./css/'));
+});
 
 // gulp.task('scripts2', function() {
 //     return gulp.src(['./js/revolution-slider/js/jquery.themepunch.tools.min.js', './js/revolution-slider/js/jquery.themepunch.revolution.min.js'])
@@ -45,7 +22,7 @@ gulp.task('scripts', function() {
 // });
 
 // дефолтная задача, если в консоли набрать gulp и нажать [enter] - запустится именно она. Можно переопределить.
-gulp.task('default', ['scripts', 'gulp-concat-css'], function () {
+gulp.task('default', ['scripts', 'css'], function () {
     console.log('По дефолту просто запускаем нашу scripts');
 });
 //
@@ -136,9 +113,9 @@ gulp.task('default', ['scripts', 'gulp-concat-css'], function () {
 // });
 //
 // // в случае изменения сущестующих или появления новых файлов - выполняем задачи js(вывод в консоль сообщения) и reload - перезапуск browser-sync
-gulp.task('watch', ['browser-sync', 'sass', 'rigger', 'scripts', 'styles'], function () {
+// gulp.task('watch', ['browser-sync', 'sass', 'rigger', 'scripts', 'styles'], function () {
     // gulp.watch(config.src.main + config.src.js + '**/*.js', ['reload']);
     // gulp.watch('app/scss/**/*.scss', ['sass']);
     // gulp.watch(config.src.main + config.src.css + '**/*.css', ['reload']);
     // gulp.watch(config.src.main + '**/*.html', ['reload']);
-});
+// });
