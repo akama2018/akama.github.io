@@ -21,6 +21,10 @@ var THEMEMASCOT = {};
     var $portfolio_flex_slider = $(".portfolio-slider");
 
 
+    if ($(".telmask").length > 0) {
+        $(".telmask").mask("+375 (99) 999-99-99");
+    }
+
     THEMEMASCOT.isMobile = {
         Android: function() {
             return navigator.userAgent.match(/Android/i);

@@ -18,20 +18,18 @@ $mail = new PHPMailer();
 $status = "false";
 
 if( $_SERVER['REQUEST_METHOD'] == 'POST' ) {
-    if( $_POST['reservation_email'] != '' AND $_POST['reservation_phone'] != '' AND $_POST['booking_service'] != '') {
+    if( $_POST['reservation_email'] != '' AND $_POST['reservation_phone'] != '') {
 
         $email = $_POST['reservation_email'];
         $phone = $_POST['reservation_phone'];
-        $car = $_POST['booking_service'];
 
         $subject = isset($subject) ? $subject : 'Новое сообщение | Записаться на пробный урок';
         $name = isset($_POST['reservation_name']) ? $_POST['reservation_name'] : '';
-        $reservation_date = isset($_POST['reservation_date']) ? $_POST['reservation_date'] : '';
 
         $botcheck = $_POST['form_botcheck'];
 
-//        $toemail = 'nataliabasalaeva@mail.ru'; // Your Email Address
-        $toemail = 'prihodkoalesia@gmail.com'; // Your Email Address
+        $toemail = 'nataliabasalaeva@mail.ru'; // Your Email Address
+//        $toemail = 'prihodkoalesia@gmail.com'; // Your Email Address
         $toname = 'Академия Математики';                // Receiver Name
 
         if( $botcheck == '' ) {
@@ -44,12 +42,10 @@ if( $_SERVER['REQUEST_METHOD'] == 'POST' ) {
             $name = isset($name) ? "Имя: $name<br><br>" : '';
             $email = isset($email) ? "Email: $email<br><br>" : '';
             $phone = isset($phone) ? "Телефон: $phone<br><br>" : '';
-            $car = isset($car) ? "Курс: $car<br><br>" : '';
-            $reservation_date = isset($reservation_date) ? "Дата: $reservation_date<br><br>" : '';
 
             $referrer = $_SERVER['HTTP_REFERER'] ? '<br><br><br>Форма отправлена со страницы: ' . $_SERVER['HTTP_REFERER'] : '';
 
-            $body = "$name $email $phone $car $reservation_date $referrer";
+            $body = "$name $email $phone $referrer";
 
             $mail->MsgHTML( $body );
             $sendEmail = $mail->Send();

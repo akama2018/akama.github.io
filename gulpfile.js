@@ -3,7 +3,7 @@ var concatCss = require('gulp-concat-css');
 var concat = require('gulp-concat');
 
 gulp.task('scripts', function() {
-    return gulp.src(['./js/jquery-2.2.4.min.js', './js/jquery-ui.min.js', './js/bootstrap.min.js', './js/jquery-plugin-collection.js'])
+    return gulp.src(['./js/jquery-2.2.4.min.js', './js/jquery-ui.min.js', './js/bootstrap.min.js', './js/jquery-plugin-collection.js', './js/jquery.maskedinput.min.js'])
         .pipe(concat('libs.js'))
         .pipe(gulp.dest('./js/'));
 });

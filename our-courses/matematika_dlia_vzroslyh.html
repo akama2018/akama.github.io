@@ -39,6 +39,7 @@
     <script src="/js/jquery-2.2.4.min.js"></script>
     <script src="/js/jquery-ui.min.js"></script>
     <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/jquery.maskedinput.min.js"></script>
     <!-- JS | jquery plugin collection for this theme -->
     <script src="/js/jquery-plugin-collection.js"></script>
     <!-- Revolution Slider 5.x SCRIPTS -->
@@ -123,9 +124,9 @@
                 <div class="section-content">
                     <div class="row">
                         <div class="col-md-12">
-                            <h2 class="title text-white text-center">Математика для взрослых</h2>
+                            <!--<h2 class="title text-white text-center">Математика для взрослых</h2>-->
                             <ol class="breadcrumb text-left text-black mt-10">
-                                <li><a href="/">Главня</a></li>
+                                <li><a href="/">Главная</a></li>
                                 <li><a href="/our-courses/">Наши курсы</a></li>
                                 <li class="active text-gray-silver">Математика для взрослых</li>
                             </ol>
@@ -186,6 +187,74 @@
                                                 <h4>Удобное расположение</h4>
                                             </div>
                                         </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <div class="p-40 pl-0">
+                                        <!-- Reservation Form Start-->
+                                        <form id="reservation_form" name="reservation_form" class="reservation-form" method="post"
+                                              action="/includes/reservation_page.php"><h3 class="mt-0 line-bottom mb-40">Запишитесь
+                                            на<span class="text-theme-color-2"> бесплатный </span>пробный урок!</h3>
+                                            <div class="row">
+                                                <div class="col-sm-12">
+                                                    <div class="form-group mb-30">
+                                                        <input placeholder="Имя" type="text" id="reservation_name"
+                                                               name="reservation_name" required="" class="form-control">
+                                                    </div>
+                                                </div>
+                                                <div class="col-sm-6">
+                                                    <div class="form-group mb-30">
+                                                        <input placeholder="Email" type="email" id="reservation_email"
+                                                               name="reservation_email" class="form-control" required="">
+                                                    </div>
+                                                </div>
+                                                <div class="col-sm-6">
+                                                    <div class="form-group mb-30">
+                                                        <input placeholder="Телефон" type="text" id="reservation_phone"
+                                                               name="reservation_phone" class="form-control telmask" required="">
+                                                    </div>
+                                                </div>
+                                                <div class="col-sm-12">
+                                                    <div class="form-group mb-0 mt-0">
+                                                        <input name="form_botcheck" class="form-control" type="hidden" value="">
+                                                        <button type="submit"
+                                                                class="btn btn-colored btn-theme-colored btn-lg btn-flat border-left-theme-color-2-4px"
+                                                                data-loading-text="Отправка...">Записаться
+                                                        </button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </form>
+                                        <!-- Reservation Form End-->
+                                        <!-- Reservation Form Validation Start-->
+                                        <script type="text/javascript">
+                                            $("#reservation_form").validate({
+                                                submitHandler: function (form) {
+                                                    var form_btn = $(form).find('button[type="submit"]');
+                                                    var form_result_div = '#form-result';
+                                                    $(form_result_div).remove();
+                                                    form_btn.before('<div id="form-result" class="alert alert-success" role="alert" style="display: none;"></div>');
+                                                    var form_btn_old_msg = form_btn.html();
+                                                    form_btn.html(form_btn.prop('disabled', true).data("loading-text"));
+                                                    $(form).ajaxSubmit({
+                                                        dataType: 'json',
+                                                        success: function (data) {
+                                                            if (data.status == 'true') {
+                                                                $(form).find('.form-control').val('');
+                                                            }
+                                                            form_btn.prop('disabled', false).html(form_btn_old_msg);
+                                                            $(form_result_div).html(data.message).fadeIn('slow');
+                                                            setTimeout(function () {
+                                                                $(form_result_div).fadeOut('slow')
+                                                            }, 6000);
+                                                        }
+                                                    });
+                                                }
+                                            });
+                                        </script>
+                                        <!-- Reservation Form Validation Start -->
                                     </div>
                                 </div>
                             </div>
@@ -265,7 +334,7 @@
                                                             <label>Телефон
                                                                 <small>*</small>
                                                             </label>
-                                                            <input name="form_phone" class="form-control required"
+                                                            <input name="form_phone" class="form-control required telmask"
                                                                    type="text"
                                                                    placeholder="Ваш телефон">
                                                         </div>
