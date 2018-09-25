@@ -7738,3 +7738,6 @@ blockquote p {
 .mob-img {
     display: none
 }
+.inner-header.divider{
+    padding: 80px 0;
+}

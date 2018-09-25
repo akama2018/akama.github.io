@@ -39,6 +39,7 @@
     .hide-phone{        display: none;    }
 }
 @media only screen and (max-width:767px){.menuzord-responsive .menuzord-brand{margin:8px 0 10px 0;}
+.inner-header.divider{padding:20px 0;}
 #wrapper{overflow:hidden;}
 .footer-box{padding:10px 15px;}
 html{font-size:60%;}
